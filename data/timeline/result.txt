@@ -1,0 +1,145 @@
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Forelæsninger over forholdet mellem sprogsystem og sprogforandring, 1t ugtl, sprogstuderende af alle retninger”}
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Gennemgang af sprogvidenskabelig propædeutik, 1.sem., 2t ugtl. (Forelæsninger og kollokvier over sprogvidenskabens historie, metoder og hovedresultater, (Bloomfield som grundbog)), særligt beregnet for studerende i de fag i hvilke kendskab til sammenlignende sprogvidenskab kræves”}
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Vejledning i studiet af gotisk, 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Vejledning i litauisk, privatissime”}
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Forskningsøvelser i sammenlignende sprogvidenskab for viderekomne, bortfaldet pga manglende tilslutn.,”}
+{"place": "Aarhus", ”year”: 1934, ”semester”: ”II”, ”description”: ”Vejledning for fagstuderende også bortfaldet”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”I”, ”description”: ”Videnskabelige øvelser over fonemteori for viderekomne, 2t ugtl.,”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”I”, ”description”: ”Gennemgang af sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”I”, ”description”: ”Vejledning i litauisk, 2.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”II”, ”description”: ”Gennemgang af sprogvidenskabelig propædeutik, 3.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”II”, ”description”: ”Forelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 1.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”II”, ”description”: ”Gennemgang af fonematikkens almene del for viderekomne, 1.sem., 1t ugtl.”}
+{"place": "Aarhus", ”year”: 1935, ”semester”: ”II”, ”description”: ”Forelæsninger over fonemteori for begyndere (sammen med H.J. Uldall. En kortere forelæsningsrække for danskstuderende på opfordring; ikke anmeldt)”}
+{"place": "Aarhus", ”year”: 1936, ”semester”: ”I”, ”description”: ”Forelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 2.sem., samt øvelser i tilslutning hertil, 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1936, ”semester”: ”I”, ”description”: ”Gennemgang af fonematikkens almene del for viderekomne, 2.sem., 1t ugtl.”}
+{"place": "Aarhus", ”year”: 1936, ”semester”: ”I”, ”description”: ”Begynderkursus i sanskrit, 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1936, ”semester”: ”I”, ”description”: ”Forelæsninger over forholdet mellem sprog og tanke anmeldt, men ikke afholdt, motivet var transmittering gennem Statsradiofonien, men dette kunne ikke gennemføres”}
+{"place": "Aarhus", ”year”: 1936, ”semester”: ”II”, ”description”: ”Kursus i sprogvidenskabelig propædeutik for sprogstuderende af alle retninger, 1.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1937, ”semester”: ”I”, ”description”: ”Kursus i sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.”}
+{"place": "Aarhus", ”year”: 1937, ”semester”: ”I”, ”description”: ”Forelæsninger over sprogrester i middelhavslandene og Forasien, 1t ugtl.”}
+{"place": "Aarhus", ”year”: 1937, ”semester”: ”I”, ”description”: ”Øvelser over oskisk-umbrisk i tilslutning til forelæsningerne over sprogrester i Middelhavslandene og Forasien, anmeldt men bortfaldet pga manglende tilslutning”}
+{"place": "CPH", ”year”: 1937, ”semester”: ”II”, ”description”: ”Indledning til sprogvidenskaben (sprogvidenskabens metode og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 3t ugtl.”}
+{"place": "CPH", ”year”: 1937, ”semester”: ”II”, ”description”: ”Græsk bøjningslære anmeldt som eventuelt, men bortfaldet pga manglende tilslutning”}
+{"place": "CPH", ”year”: 1938, ”semester”: ”I”, ”description”: ”Indledning til sprogvidenskaben, 2.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1938, ”semester”: ”I”, ”description”: ”Kollokvier med viderekomne over nyudkommen lingvistisk litteratur, 2t ugtl.”}
+{"place": "CPH", ”year”: 1938, ”semester”: ”II”, ”description”: ”Gennemgang af Louis Hjelmslev og H.J. Uldall: An Outline of Glossematics (tillige som afslutning af forelæsningen over indledning til sprogvidenskaben (1. (3.) sem.), 3t ugtl.”}
+{"place": "CPH", ”year”: 1938, ”semester”: ”II”, ”description”: ”Kollokvier over udvalgte sprogvidenskabelige emner (efter nærmere aftale)”}
+{"place": "CPH", ”year”: 1939, ”semester”: ”I”, ”description”: ”Gennemgang af glossematikken, (2. (4.) semester), 3t ugtl., aflyst efter aftale med deltageren (Wett Frederiksen) pga manglende tilslutning”}
+{"place": "CPH", ”year”: 1939, ”semester”: ”I”, ”description”: ”Forelæsninger over sprogvidenskabens historie, 3t ugtl., start med 4 deltagere, afbrudt pga mangel på tilslutning da alle udeblev inden forelæsningsrækkens afslutning ”}
+{"place": "CPH", ”year”: 1939, ”semester”: ”I”, ”description”: ”Øvelser over litauisk for viderekomne, privatissime, 1.sem, 1t ugtl.”}
+{"place": "CPH", ”year”: 1939, ”semester”: ”II”, ”description”: ”Forelæsninger over almen fonetik (herunder fonemteori og experimentalfonetik; for sprogstuderende af alle retninger, særlig for begyndere), 2t ugtl (mange, også prominente deltagere)”}
+{"place": "CPH", ”year”: 1939, ”semester”: ”II”, ”description”: ”Øvelser over litauisk for viderekomne, privatissime, 2.sem, 1t ugtl.”}
+{"place": "CPH", ”year”: 1940, ”semester”: ”I”, ”description”: ””Undervisningsfrit semester”: Af undervisningsministeriet fritaget for at holde forelæsninger.”}
+{"place": "CPH", ”year”: 1940, ”semester”: ”II”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 1.sem., 3t ugtl. [meget grundig disposition, kps.3, F29ff.]”}
+{"place": "CPH", ”year”: 1941, ”semester”: ”I”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 2.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1941, ”semester”: ”II”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 3.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1941, ”semester”: ”II”, ”description”: ”Finsk for begyndere, 1.sem, 2t ugtl. [F35, 37]”}
+{"place": "CPH", ”year”: 1941, ”semester”: ”II”, ”description”: ”Finsk for viderekomne, 1.sem., 1t ugtl., ikke anmeldt, men afholdt efter opfordring”}
+{"place": "CPH", ”year”: 1941, ”semester”: ”II”, ”description”: ”Vejledning af fagstuderende efter nærmere aftale”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Forelæsninger over sprogteori (principper for lexikalsk, grammatisk og fonetisk analyse) (for sprogstuderende af alle retninger), 1.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Øvelser over oldgræske dialekter, 2t  ugtl”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Øvelser over Finsk for begyndere, 2.sem., 2t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Øvelser over Finsk for viderekomne, 2.sem, 1t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Vejledning af fagstuderende efter nærmere aftale”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”I”, ”description”: ”Ledelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Forelæsninger over sprogteori, 2.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Fonetik, Det danske missionsselskab, i alt 18t. (med særskilt honorar)”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Ungarsk for begyndere, 1.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Laboratorieøvelser over indskrifter fra oldtidens Italien, 1.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Øvelser over finsk for viderekomne anmeldt som eventuelt, men bortfaldt ved den finske lektors tiltræden [F49]”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Vejledning af fagstuderende efter nærmere aftale”}
+{"place": "CPH", ”year”: 1942, ”semester”: ”II”, ”description”: ”Ledelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”I”, ”description”: ”Laboratorieøvelser over indskrifter fra oldtidens Italien, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”I”, ”description”: ”Forelæsninger over sprogteori, 3.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”I”, ”description”: ”Ungarsk for begyndere, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj) (bog af Lotz)”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”II”, ”description”: ”Fonetik (1.halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”II”, ”description”: ”Indledning til sprogvidenskaben (sprogvidenskabens metoder og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”II”, ”description”: ”Forelæsninger over sprogteori, 4.sem, 2t. ugtl. (bl.a. Eli)”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”II”, ”description”: ”Ungarsk, 3.sem, 1 à 2t ugtl.”}
+{"place": "CPH", ”year”: 1943, ”semester”: ”II”, ”description”: ”Elementær fonetik (for begyndende sprogstuderende, 1.sem., 1t ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”I”, ”description”: ”Fonetik (2. halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”I”, ”description”: ”Indledning til sprogvidenskaben, 2.sem, 2t ugtl”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”I”, ”description”: ”Litauisk, 1t ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”II”, ”description”: ”Elementær fonetik, 2.sem., 2t ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”I”, ”description”: ”Ungarsk, 4.sem., 1t ugtl. (afbrudt pga sygdomsforfald)”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”II”, ”description”: ”Indledning til sprogvidenskaben, 3.sem., 2t. ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”II”, ”description”: ”Litauisk, 2.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”II”, ”description”: ”Vejledning for (en) fagstuderende (Ib Thomhav, smlg.spr.), øvelser over ungarsk, 2t ugtl.”}
+{"place": "CPH", ”year”: 1944, ”semester”: ”II”, ”description”: ”Fonetik extraordinært fortsat), 1t ugtl., Missionsskolen, Det danske bibelselskab”}
+{"place": "CPH", ”year”: 1945, ”semester”: ”I”, ”description”: ”Indledning til sprogvidenskaben, 4.sem., 2t. ugtl.”}
+{"place": "CPH", ”year”: 1945, ”semester”: ”I”, ”description”: ”Vejledning for (en) fagstuderende, øvelser over ungarsk, 1½t ugtl.”}
+{"place": "CPH", ”year”: 1945, ”semester”: ”I”, ”description”: ”Litauisk, 3.sem, 3t ugtl.”}
+{"place": "CPH", ”year”: 1945, ”semester”: ”II”, ”description”: ”Indledning til sprogvidenskaben, 5.sem. (Sprogtilstandslærens historie, 1.sem.), 2t ugtl. (grundig disp.)”}
+{"place": "CPH", ”year”: 1945, ”semester”: ”II”, ”description”: ”Litauisk, 4.sem, 3t ugtl.”}
+{"place": "CPH", ”year”: 1946, ”semester”: ”I”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 1.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1946, ”semester”: ”I”, ”description”: ”Forelæsninger over sprogtilstandslærens historie, 2.sem., 1t ugtl.”}
+{"place": "CPH", ”year”: 1946, ”semester”: ”I”, ”description”: ”Litauisk, 5.sem, 3t ugtl.”}
+{"place": "CPH", ”year”: 1946, ”semester”: ”I”, ”description”: ”Fonetik, 2t ugtl., Menighedshøjskolen ”Marthabo””}
+{"place": "CPH", ”year”: 1946, ”semester”: ”II”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 2.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1946, ”semester”: ”II”, ”description”: ”Fonetik, 2t ugtl., Menighedshøjskolen ”Marthabo””}
+{"place": "CPH", ”year”: 1947, ”semester”: ”I”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 3.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1947, ”semester”: ”II”, ”description”: ”Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 4.sem., 3t ugtl.”}
+{"place": "CPH", ”year”: 1947, ”semester”: ”II”, ”description”: ”Vejledning i sprogteori, 1.sem., 1t ugtl.”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”I”, ”description”: ”Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 1.sem., 2t ugtl.”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”I”, ”description”: ”Gennemgang af en række nyere værker vedrørende forholdet mellem sprog, tanke og virkelighed, 1t ugtl.”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”II”, ”description”: ”Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 2.sem., 1 à 2t ugtl.”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”II”, ”description”: ”Ungarsk for begyndere”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”II”, ”description”: ”Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 1t ugtl.”}
+{"place": "CPH", ”year”: 1948, ”semester”: ”II”, ”description”: ”Sprogteoretiske kollokvier, 2 t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”I”, ”description”: ”Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 3.sem., 1 à 2t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”I”, ”description”: ”Ungarsk for begyndere, 2.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”I”, ”description”: ”Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 2.sem., 1t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”I”, ”description”: ”Sprogteoretiske kollokvier, 2 t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”II”, ”description”: ”Fonetik, 2t ugtl., Missionsskolen Scherfigsvej 8”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”II”, ”description”: ”Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 3.sem., 1t ugtl.”}
+{"place": "CPH", ”year”: 1949, ”semester”: ”II”, ”description”: ”Ungarsk for begyndere, 3.sem, 2t ugtl.”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 4.sem.”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Sprogteoretiske kollokvier”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Ungarsk for begyndere, 4.sem.”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat)”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Albanesisk”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”I”, ”description”: ”Fonetik for missionærelever”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”II”, ”description”: ”Albanesisk”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”II”, ”description”: ”Forelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”II”, ”description”: ”Gennemgang af tekstprøver på østlige finsk-ugriske sprog (en studerende: Aage Ravn Christensen)”}
+{"place": "CPH", ”year”: 1950, ”semester”: ”II”, ”description”: ”Sprogteoretiske kollokvier”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”I”, ”description”: ”Sprogteoretiske kollokvier”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”I”, ”description”: ”Albanesisk”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”I”, ”description”: ”Forelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”I”, ”description”: ”Gennemgang af tekstprøver på østlige finsk-ugriske sprog (fortsættelse)”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”II”, ”description”: ”Lingvistik for begyndere”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”II”, ”description”: ”Øvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), 2t ugtl.”}
+{"place": "CPH", ”year”: 1951, ”semester”: ”II”, ”description”: ”Albanesisk (fortsat)”}
+{"place": "CPH", ”year”: 1952, ”semester”: ”I”, ”description”: ”Lingvistik for begyndere (fortsat)”}
+{"place": "CPH", ”year”: 1952, ”semester”: ”I”, ”description”: ”Øvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), (fortsat)”}
+{"place": "CPH", ”year”: 1952, ”semester”: ”I”, ”description”: ”Albanesisk (fortsat)”}
+{"place": "CPH", ”year”: 1952, ”semester”: ”II”, ”description”: ”Lingvistik for begyndere (fortsat)”}
+{"place": "CPH", ”year”: 1952, ”semester”: ”II”, ”description”: ”Litauisk”}
+{"place": "CPH", ”year”: 1953, ”semester”: ”I”, ”description”: ”Lingvistik for begyndere (fortsat)”}
+{"place": "CPH", ”year”: 1953, ”semester”: ”I”, ”description”: ”Litauisk (fortsat)”}
+{"place": "CPH", ”year”: 1953, ”semester”: ”I”, ”description”: ”Vejledning for (en) studerende i sammenlignende sprogvidenskab (Niels Ege)”}
+{"place": "CPH", ”year”: 1953, ”semester”: ”II”, ”description”: ”Kollokvier over sprogteori”}
+{"place": "CPH", ”year”: 1953, ”semester”: ”II”, ”description”: ”Litauisk (fortsat) (Brobys kone Aina, Mey, Surland, Gunnar Svane)”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”I”, ”description”: ”Litauisk (fortsat) (Brobys kone, Mey, Surland, Gunnar Svane)”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”I”, ”description”: ”Sprogteoretiske kollokvier”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Litauisk for viderekomne”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Gennemgang af lettiske tekstprøver”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Sprogteoretiske kollokvier”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Vejledning for konferensstuderende i sammenlignende sprogvidenskab og andre specielt interesserede (privatissime), bl.a. Flydal”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Litauisk for begyndere”}
+{"place": "CPH", ”year”: 1954, ”semester”: ”II”, ”description”: ”Albansk”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”I”, ”description”: ”Morfemkategorier (Skydsgaard, Erik Hansen, Westh Neuhard m.fl.)”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”I”, ”description”: ”De baltiske sprogs opbygning”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”I”, ”description”: ”Vejledning for viderekomne i læsning af litauisk”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”I”, ”description”: ”Litauisk for begyndere (fortsat)”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”I”, ”description”: ”Vejledning (privatissime) for studerende til magisterkonferens i sammenlignende sprogvidenskab og andre specielt interesserede, (bl.a Mey)”}
+{"place": "CPH", ”year”: 1955, ”semester”: ”II”, ”description”: ”Forelæsningsfrihed”}
+{"place": "CPH", ”year”: 1956, ”semester”: ”I”, ”description”: ”Øvelser over litauisk”}
+{"place": "CPH", ”year”: 1956, ”semester”: ”II”, ”description”: ”Lingvistik for begyndere”}
+{"place": "CPH", ”year”: 1956, ”semester”: ”II”, ”description”: ”Kollokvier over udvalgte sprogteoretiske emner”}
+{"place": "CPH", ”year”: 1956, ”semester”: ”II”, ”description”: ”Gennemgang af baltiske (prøjsiske) texter”}
+{"place": "CPH", ”year”: 1957, ”semester”: ”I”, ”description”: ”Lingvistik for begyndere”}
+{"place": "CPH", ”year”: 1957, ”semester”: ”I”, ”description”: ”Kollokvier over udvalgte sprogteoretiske emner I: udtryksanalyse”}
+{"place": "CPH", ”year”: 1957, ”semester”: ”I”, ”description”: ”Kollokvier over udvalgte sprogteoretiske emner: kasuskategorien/r”}
+{"place": "CPH", ”year”: 1957, ”semester”: ”I”, ”description”: ”Gennemgang af baltiske tekster (lettisk)”}
