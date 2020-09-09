@@ -151,10 +151,10 @@ with open("result.txt", "r", encoding="utf-8") as result_file:
         dict["Institution"] = item[0]["Institution"]
         dict["Kategori"] = "Undervisning"
 
-        description = str(subjects) + " fag"
+        description = [str(subjects) + " fag"]
 
         for i in range(subjects):
-            description += "\n" + item[i]["Event"]
+            description.append(item[i]["Event"])
 
         dict["Event"] = description
 
