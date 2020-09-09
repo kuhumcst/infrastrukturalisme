@@ -76,10 +76,13 @@ with open("Hjelmslevkronologi.csv", mode="r", encoding="utf-8-sig") as file:
             dict["Kategori"] = None
 
         if row["Event / Begivenhed"] and row["Event-beskrivelse"]:
+            dict["Tooltip"] = row["Event / Begivenhed"] + ": " + row["Event-beskrivelse"]
             dict["Event"] = row["Event / Begivenhed"] + ": " + row["Event-beskrivelse"]
         elif row["Event / Begivenhed"] or row["Event-beskrivelse"]:
+            dict["Tooltip"] = row["Event / Begivenhed"] + row["Event-beskrivelse"]
             dict["Event"] = row["Event / Begivenhed"] + row["Event-beskrivelse"]
         else:
+            dict["Tooltip"] = None
             dict["Event"] = None
 
         if row["Personer"]:
@@ -119,7 +122,6 @@ with open("result.txt", "r", encoding="utf-8") as result_file:
         else:
             dict["Sted = By / Landområde"] = "Aarhus"
             dict["Institution"] = "Aarhus Universitet"
-
 
         dict["Event"] = row["description"]
 

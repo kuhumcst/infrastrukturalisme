@@ -6,6 +6,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Fødsel",
     "Event": "Fødsel",
     "Personer": null,
     "Kilde": null
@@ -17,6 +18,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Hellerup Kirke",
     "Kategori": "Liv",
+    "Tooltip": "Konfirmation",
     "Event": "Konfirmation",
     "Personer": null,
     "Kilde": "K12 - 108"
@@ -28,6 +30,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Hellerup Gymnasium",
     "Kategori": "Liv",
+    "Tooltip": "Studentereksamen, nysproglig-linje",
     "Event": "Studentereksamen, nysproglig-linje",
     "Personer": null,
     "Kilde": "K12 - 119"
@@ -39,6 +42,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Indskrivning",
     "Event": "Indskrivning",
     "Personer": null,
     "Kilde": "K12 - 104"
@@ -50,6 +54,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Den almindelige filosofiske prøve",
     "Event": "Den almindelige filosofiske prøve",
     "Personer": null,
     "Kilde": "K12 - 132"
@@ -61,6 +66,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "\"Klub??\"",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Bidrag til en fastsættelse af den religiøse etiks relative værdi, paa grundlag af en sammenligning mellem buddhisme og kristianisme",
     "Event": "Foredrag: Bidrag til en fastsættelse af den religiøse etiks relative værdi, paa grundlag af en sammenligning mellem buddhisme og kristianisme",
     "Personer": null,
     "Kilde": "K91 - 45ff"
@@ -72,6 +78,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Studentersamfundet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Kulturens disharmonier",
     "Event": "Foredrag: Kulturens disharmonier",
     "Personer": null,
     "Kilde": "K91 - 110ff"
@@ -83,6 +90,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Medunderskriver på oplæg fra Studenter-Samfundets Unge",
     "Event": "Medunderskriver på oplæg fra Studenter-Samfundets Unge",
     "Personer": null,
     "Kilde": "K154 - 9-10"
@@ -94,6 +102,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Medunderskriver på oplæg fra Studenter-Samfundets Unges metoder",
     "Event": "Medunderskriver på oplæg fra Studenter-Samfundets Unges metoder",
     "Personer": null,
     "Kilde": "K154 - 11"
@@ -105,6 +114,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Studentersamfundet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Religiøs etik i buddhisme og kristianisme",
     "Event": "Foredrag: Religiøs etik i buddhisme og kristianisme",
     "Personer": null,
     "Kilde": "K91 - 45ff"
@@ -116,6 +126,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Universitetet",
     "Kategori": "Liv",
+    "Tooltip": "Magisterkonferens i Sammenlignende Sprogvidenskab",
     "Event": "Magisterkonferens i Sammenlignende Sprogvidenskab",
     "Personer": null,
     "Kilde": "K12 - 114"
@@ -126,7 +137,8 @@
     "Land": "Tjekkoslovakiet",
     "Sted = By / Landområde": null,
     "Institution": null,
-    "Kategori": "1e",
+    "Kategori": "Rejse",
+    "Tooltip": "Studieophold",
     "Event": "Studieophold",
     "Personer": null,
     "Kilde": "K50 - 2, 1-19 "
@@ -138,6 +150,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Karls Universitet + Tysk Universitet",
     "Kategori": "Del af Rejse",
+    "Tooltip": "Studier",
     "Event": "Studier",
     "Personer": null,
     "Kilde": "K50 - 4"
@@ -149,6 +162,7 @@
     "Sted = By / Landområde": "Brno, Hradec Králové",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 4"
@@ -160,6 +174,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Studentersamfundet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Danske studenterforhold i europæisk perspektiv",
     "Event": "Foredrag: Danske studenterforhold i europæisk perspektiv",
     "Personer": null,
     "Kilde": "K91 - 359ff"
@@ -171,6 +186,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Tjenesteudygtighedspas",
     "Event": "Tjenesteudygtighedspas",
     "Personer": null,
     "Kilde": null
@@ -182,6 +198,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Kaukasisk problemer",
     "Event": "Foredrag: Kaukasisk problemer",
     "Personer": null,
     "Kilde": "K91 - 419f, 536"
@@ -193,6 +210,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Østre Borgerdydskole",
     "Kategori": "Liv",
+    "Tooltip": "Prøve i praktisk undervisningsfærdighed (engelsk og græsk)",
     "Event": "Prøve i praktisk undervisningsfærdighed (engelsk og græsk)",
     "Personer": null,
     "Kilde": "K12 - 128"
@@ -204,6 +222,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Bestået prøve i teoretisk pædagogik & skolehygiejne",
     "Event": "Bestået prøve i teoretisk pædagogik & skolehygiejne",
     "Personer": null,
     "Kilde": "K12 - 126"
@@ -215,6 +234,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Den grammatiske videnskab i Sovjetrusland",
     "Event": "Foredrag: Den grammatiske videnskab i Sovjetrusland",
     "Personer": null,
     "Kilde": "K91 - 603f"
@@ -226,6 +246,7 @@
     "Sted = By / Landområde": "Haag",
     "Institution": "Premier Congrès International de Linguistes",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse uden oplæg",
     "Event": "Deltagelse uden oplæg",
     "Personer": null,
     "Kilde": "K68 - 1f."
@@ -237,6 +258,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Pronominalsystemet i de nordiske sprog",
     "Event": "Pronominalsystemet i de nordiske sprog",
     "Personer": null,
     "Kilde": "K12 - 240"
@@ -248,6 +270,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Ordet og dets bestanddele. Bedømmelse af en prisafhandling",
     "Event": "Ordet og dets bestanddele. Bedømmelse af en prisafhandling",
     "Personer": null,
     "Kilde": "K102-281"
@@ -259,6 +282,7 @@
     "Sted = By / Landområde": "Genève",
     "Institution": "Seconde Congrès International de Linguistes ",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse uden oplæg",
     "Event": "Deltagelse uden oplæg",
     "Personer": null,
     "Kilde": "K70 - 1f"
@@ -270,6 +294,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Netværk",
+    "Tooltip": "Séance constitutive",
     "Event": "Séance constitutive",
     "Personer": null,
     "Kilde": null
@@ -281,6 +306,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le IIe Congrès international de linguistes (Genève 1931)",
     "Event": "Oplæg: Rapport sur le IIe Congrès international de linguistes (Genève 1931)",
     "Personer": null,
     "Kilde": null
@@ -292,6 +318,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: La méthode immanente en linguistique",
     "Event": "Oplæg: La méthode immanente en linguistique",
     "Personer": null,
     "Kilde": null
@@ -303,6 +330,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de N. Trubetzkoy: Zur allgemeinen Theorie der phonologischen Vokalsysteme, 1929",
     "Event": "Oplæg: Compte rendu de N. Trubetzkoy: Zur allgemeinen Theorie der phonologischen Vokalsysteme, 1929",
     "Personer": null,
     "Kilde": null
@@ -314,6 +342,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Dansk-lettisk forening",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Letternes sprog og folkelige digtning",
     "Event": "Foredrag: Letternes sprog og folkelige digtning",
     "Personer": null,
     "Kilde": "K102 - 614f"
@@ -325,6 +354,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de A. Meillet: Essai de chronologie des langues indo-européennes, 1931",
     "Event": "Oplæg: Compte rendu de A. Meillet: Essai de chronologie des langues indo-européennes, 1931",
     "Personer": null,
     "Kilde": null
@@ -336,6 +366,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Disputatsforsvar: Dr.phil",
     "Event": "Disputatsforsvar: Dr.phil",
     "Personer": null,
     "Kilde": null
@@ -347,6 +378,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Bevis: Dr.phil",
     "Event": "Bevis: Dr.phil",
     "Personer": null,
     "Kilde": null
@@ -358,6 +390,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de travaux de S. Karcevski",
     "Event": "Oplæg: Compte rendu de travaux de S. Karcevski",
     "Personer": null,
     "Kilde": null
@@ -369,6 +402,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "7. Nordiske Filologmøde",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Opfattelsen af sprogslægtskab fra Rasmus Rask til vore dage",
     "Event": "Oplæg: Opfattelsen af sprogslægtskab fra Rasmus Rask til vore dage",
     "Personer": null,
     "Kilde": "K132 - 241"
@@ -380,6 +414,7 @@
     "Sted = By / Landområde": "Brendekilde, Fyn: Rasks fødested",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Rasmus Rask",
     "Event": "Foredrag: Rasmus Rask",
     "Personer": null,
     "Kilde": "K142 - 28"
@@ -391,6 +426,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet og Statsradiofonien",
     "Kategori": "Foredrag",
+    "Tooltip": "Rasmus Rask",
     "Event": "Rasmus Rask",
     "Personer": null,
     "Kilde": "K142 - 33"
@@ -402,6 +438,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg /Meddelelse: Les verbes indo-européens en –mi",
     "Event": "Oplæg /Meddelelse: Les verbes indo-européens en –mi",
     "Personer": null,
     "Kilde": null
@@ -413,6 +450,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for filosofi og psykologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sprogvidenskabens betydning for tænkningens teori",
     "Event": "Foredrag: Sprogvidenskabens betydning for tænkningens teori",
     "Personer": null,
     "Kilde": "K102-637"
@@ -424,6 +462,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Grundlaget for dansk grammatik",
     "Event": "Grundlaget for dansk grammatik",
     "Personer": null,
     "Kilde": "K142 - 1ff."
@@ -435,6 +474,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Structure générale des systèmes grammaticaux",
     "Event": "Structure générale des systèmes grammaticaux",
     "Personer": null,
     "Kilde": null
@@ -446,6 +486,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Recherches provisoires sur les cas",
     "Event": "Recherches provisoires sur les cas",
     "Personer": null,
     "Kilde": null
@@ -457,6 +498,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Ansættelse som docent",
     "Event": "Ansættelse som docent",
     "Personer": null,
     "Kilde": "K63 - 29"
@@ -468,6 +510,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
+    "Tooltip": "Påbegyndelse af forelæsninger: Sprogsystem og Sprogforandring",
     "Event": "Påbegyndelse af forelæsninger: Sprogsystem og Sprogforandring",
     "Personer": null,
     "Kilde": "K155 - 103"
@@ -479,6 +522,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Humanistisk Samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Rasmus Rasks stilling i sprogvidenskabens historie",
     "Event": "Foredrag: Rasmus Rasks stilling i sprogvidenskabens historie",
     "Personer": null,
     "Kilde": "K132 - 64"
@@ -490,6 +534,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": "Rejse",
     "Event": "Rejse",
     "Personer": null,
     "Kilde": "K50 - 827ff, rejseplan 863-64"
@@ -501,6 +546,7 @@
     "Sted = By / Landområde": "Leeds",
     "Institution": "Leeds University",
     "Kategori": "Del af Rejse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K50 - 829, K142 - 351ff"
@@ -512,6 +558,7 @@
     "Sted = By / Landområde": "Leeds",
     "Institution": "Leeds University",
     "Kategori": "Foredrag",
+    "Tooltip": "Gæsteforelæsninger: Introduction to Phonematics",
     "Event": "Gæsteforelæsninger: Introduction to Phonematics",
     "Personer": null,
     "Kilde": null
@@ -523,6 +570,7 @@
     "Sted = By / Landområde": "Leeds",
     "Institution": "Leeds University",
     "Kategori": "Foredrag",
+    "Tooltip": "Uformelt foredrag: The (Semantic) System of grammatical inflexions",
     "Event": "Uformelt foredrag: The (Semantic) System of grammatical inflexions",
     "Personer": null,
     "Kilde": "K50 - 829, K4 - næsten sidst"
@@ -534,6 +582,7 @@
     "Sted = By / Landområde": "Overnatning i Leeds??",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -545,6 +594,7 @@
     "Sted = By / Landområde": "York",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -556,6 +606,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -567,6 +618,7 @@
     "Sted = By / Landområde": "Oxford",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -578,6 +630,7 @@
     "Sted = By / Landområde": "Hereford",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 890"
@@ -589,6 +642,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -600,6 +654,7 @@
     "Sted = By / Landområde": "Llandyssul",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Feltstudier",
     "Event": "Feltstudier",
     "Personer": null,
     "Kilde": "K30 - 211"
@@ -611,6 +666,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -622,6 +678,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "Second International Congress of Phonetic Sciences",
     "Kategori": "Netværk",
+    "Tooltip": "Oplæg og deltagelse i generalforsamlinger i …..",
     "Event": "Oplæg og deltagelse i generalforsamlinger i …..",
     "Personer": null,
     "Kilde": null
@@ -633,6 +690,7 @@
     "Sted = By / Landområde": null,
     "Institution": "Second International Congress of Phonetic Sciences",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg i Joint Session med Internationale Phonologische Arbeitsgemeinscahft: On the Principles of Phonematics",
     "Event": "Oplæg i Joint Session med Internationale Phonologische Arbeitsgemeinscahft: On the Principles of Phonematics",
     "Personer": null,
     "Kilde": "K142 - 283ff"
@@ -643,6 +701,7 @@
     "Sted = By / Landområde": "Criccieth",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Feltstudier",
     "Event": "Feltstudier",
     "Personer": "Sammen med Alan Ross",
     "Kilde": "K30 - 211, 257f"
@@ -654,6 +713,7 @@
     "Sted = By / Landområde": "Dublin",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K30 - 281-82"
@@ -665,6 +725,7 @@
     "Sted = By / Landområde": "Aran Islands , ved Galway",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Feltstudier",
     "Event": "Feltstudier",
     "Personer": null,
     "Kilde": "K30 - 278, 281-82, 290"
@@ -676,6 +737,7 @@
     "Sted = By / Landområde": "Rejsen hjem via Dublin, Holyhead, London, Esbjerg",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K30 - 290"
@@ -687,6 +749,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Synspunkter for dansk fonetik",
     "Event": "Synspunkter for dansk fonetik",
     "Personer": null,
     "Kilde": "K 142 - 415ff"
@@ -698,6 +761,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Humanistisk Samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæggelse af Catégorie des Cas",
     "Event": "Forelæggelse af Catégorie des Cas",
     "Personer": null,
     "Kilde": "K 97 - 255"
@@ -709,6 +773,7 @@
     "Sted = By / Landområde": null,
     "Institution": "Danmarks Radio",
     "Kategori": "Foredrag",
+    "Tooltip": "Radioforedrag: Sprog og tanke",
     "Event": "Radioforedrag: Sprog og tanke",
     "Personer": null,
     "Kilde": "K 143 - 143"
@@ -720,6 +785,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Quatrième Congrès International de Linguistes",
     "Kategori": "Netværk",
+    "Tooltip": "Oplæg og deltagelse",
     "Event": "Oplæg og deltagelse",
     "Personer": null,
     "Kilde": "K70 - 1f"
@@ -731,6 +797,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Quatrième Congrès International de Linguistes",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Essai d'une théorie des morphèmes",
     "Event": "Oplæg: Essai d'une théorie des morphèmes",
     "Personer": null,
     "Kilde": "K99 - 221"
@@ -742,6 +809,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Dansk selskab for oldtids- og middelalderforskning",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sprogvidenskabelig rekonstruktion",
     "Event": "Foredrag: Sprogvidenskabelig rekonstruktion",
     "Personer": null,
     "Kilde": "K143 - 262ff"
@@ -753,6 +821,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Liv",
+    "Tooltip": "Ansættelse som Professor i sammenlignende sprogvidenskab",
     "Event": "Ansættelse som Professor i sammenlignende sprogvidenskab",
     "Personer": null,
     "Kilde": "K115 - 16, K12 - 137"
@@ -764,6 +833,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Forme et substance linguistiques",
     "Event": "Foredrag: Forme et substance linguistiques",
     "Personer": null,
     "Kilde": null
@@ -775,6 +845,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50"
@@ -786,6 +857,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Institut Scandinave et Néerlandais",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag på tjekkisk: Rasmus Rask, hans levned og virke",
     "Event": "Foredrag på tjekkisk: Rasmus Rask, hans levned og virke",
     "Personer": null,
     "Kilde": null
@@ -797,6 +869,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Cercle linguistique de Prague",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Forme et substance linguistiques",
     "Event": "Foredrag: Forme et substance linguistiques",
     "Personer": null,
     "Kilde": null
@@ -808,6 +881,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Cercle linguistique de Prague",
     "Kategori": "Netværk",
+    "Tooltip": "Deltager i møde, herunder diskussion om Kasuskategorien: Om Kasuskategorien, indledning ved V. Skalička",
     "Event": "Deltager i møde, herunder diskussion om Kasuskategorien: Om Kasuskategorien, indledning ved V. Skalička",
     "Personer": null,
     "Kilde": null
@@ -819,6 +893,7 @@
     "Sted = By / Landområde": "Brno",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Samtaler med Roman Jakobson: Emne, bl.a: Acta Linguistica, Revue internationale de linguistique  structurale",
     "Event": "Samtaler med Roman Jakobson: Emne, bl.a: Acta Linguistica, Revue internationale de linguistique  structurale",
     "Personer": "Roman Jakobson",
     "Kilde": "K50"
@@ -830,6 +905,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Forme et substance linguistiques (Suite)",
     "Event": "Forme et substance linguistiques (Suite)",
     "Personer": null,
     "Kilde": null
@@ -841,6 +917,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Statsradiofonien",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Den danske sprogforsker Rasmus Rask",
     "Event": "Foredrag: Den danske sprogforsker Rasmus Rask",
     "Personer": null,
     "Kilde": "K117 - 233"
@@ -852,6 +929,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg sammen med W. Thalbitzer: L'hypothèse de C.C. Uhlenbeck sur les rapports entre l'eskimo et l'indo-européen",
     "Event": "Oplæg sammen med W. Thalbitzer: L'hypothèse de C.C. Uhlenbeck sur les rapports entre l'eskimo et l'indo-européen",
     "Personer": null,
     "Kilde": null
@@ -863,6 +941,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Humanistisk Samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sproglig form og substans",
     "Event": "Foredrag: Sproglig form og substans",
     "Personer": null,
     "Kilde": null
@@ -874,6 +953,7 @@
     "Sted = By / Landområde": "Berlin",
     "Institution": "Kaiser Wilhelm-Instituttet für Hirnforschung, ledet af Eberhard Zwirner",
     "Kategori": "Netværk",
+    "Tooltip": "Deutsches Spracharchiv",
     "Event": "Deutsches Spracharchiv",
     "Personer": "Eberhard Zwirner, …",
     "Kilde": "K62 - 247-48"
@@ -885,6 +965,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Institut für Lautforschung, notits (ledet af D. Westermann)",
     "Event": "Institut für Lautforschung, notits (ledet af D. Westermann)",
     "Personer": null,
     "Kilde": null
@@ -896,6 +977,7 @@
     "Sted = By / Landområde": "Gent",
     "Institution": "Third International Congress of Phonetic Sciences",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": null
@@ -907,6 +989,7 @@
     "Sted = By / Landområde": "Gent",
     "Institution": "Third International Congress of Phonetic Sciences ",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: The Syllable as a Structural Unit",
     "Event": "Oplæg: The Syllable as a Structural Unit",
     "Personer": null,
     "Kilde": null
@@ -918,6 +1001,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Deuxième Congrès International des Sciences Anthropologiques et Ethnologiques",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K71 - …"
@@ -929,6 +1013,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le IIIe  Congrès des sciences phonétiques (Gand 1938)",
     "Event": "Oplæg: Rapport sur le IIIe  Congrès des sciences phonétiques (Gand 1938)",
     "Personer": null,
     "Kilde": null
@@ -940,6 +1025,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Nye bidrag til Rasmus Rasks levned",
     "Event": "Foredrag: Nye bidrag til Rasmus Rasks levned",
     "Personer": null,
     "Kilde": "K132 - 93"
@@ -951,6 +1037,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Det kongelige Frederiks Universitet",
     "Kategori": "Netværk",
+    "Tooltip": "Besøg Fonetisk Laboratorium ",
     "Event": "Besøg Fonetisk Laboratorium ",
     "Personer": "Selmer",
     "Kilde": "K62 - 249 (afrejse KBH. 2601?)"
@@ -962,6 +1049,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Det kongelige Frederiks Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Den danske sprogforsker Rasmus Rask. Nye bidrag til hans levned",
     "Event": "Foredrag: Den danske sprogforsker Rasmus Rask. Nye bidrag til hans levned",
     "Personer": null,
     "Kilde": "K132 - 72-92"
@@ -973,6 +1061,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Phonétique expérimentale",
     "Event": "Oplæg: Phonétique expérimentale",
     "Personer": null,
     "Kilde": null
@@ -984,6 +1073,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Connectif et «voyelle thématique» en hongrois ",
     "Event": "Oplæg: Connectif et «voyelle thématique» en hongrois ",
     "Personer": null,
     "Kilde": null
@@ -995,6 +1085,7 @@
     "Sted = By / Landområde": "Kolding",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sprogvidenskaben",
     "Event": "Foredrag: Sprogvidenskaben",
     "Personer": null,
     "Kilde": "K65 - 132ff, K136 - 1"
@@ -1006,6 +1097,7 @@
     "Sted = By / Landområde": "Kolding & Aarhus",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1017,6 +1109,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Det finske sprogs bygning",
     "Event": "Forelæsning: Det finske sprogs bygning",
     "Personer": null,
     "Kilde": "K155 - 138, K139 - 63-64"
@@ -1028,6 +1121,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning??: Det finske sprogs bygning",
     "Event": "Forelæsning??: Det finske sprogs bygning",
     "Personer": null,
     "Kilde": null
@@ -1039,6 +1133,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu d’articles parus dans les Travaux du Cercle linguistique de Prague, vol. VIII, 1939",
     "Event": "Oplæg: Compte rendu d’articles parus dans les Travaux du Cercle linguistique de Prague, vol. VIII, 1939",
     "Personer": null,
     "Kilde": null
@@ -1050,6 +1145,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de Louis H. Gray: Foundations of Language, 1939",
     "Event": "Oplæg: Compte rendu de Louis H. Gray: Foundations of Language, 1939",
     "Personer": null,
     "Kilde": null
@@ -1061,6 +1157,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de J. Lotz: Das ungarische Sprachsystem, 1939",
     "Event": "Oplæg: Compte rendu de J. Lotz: Das ungarische Sprachsystem, 1939",
     "Personer": null,
     "Kilde": null
@@ -1072,6 +1169,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Notule sur les degrés de comparaison",
     "Event": "Oplæg: Notule sur les degrés de comparaison",
     "Personer": null,
     "Kilde": null
@@ -1083,6 +1181,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Discussion relative à Notule sur les degrés de comparaison",
     "Event": "Oplæg: Discussion relative à Notule sur les degrés de comparaison",
     "Personer": null,
     "Kilde": null
@@ -1094,6 +1193,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Causerie linguistique (Contours d’une théorie du langage)",
     "Event": "Oplæg: Causerie linguistique (Contours d’une théorie du langage)",
     "Personer": null,
     "Kilde": null
@@ -1105,6 +1205,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Statsradiofonien",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Vilhelm Thomsen",
     "Event": "Foredrag: Vilhelm Thomsen",
     "Personer": null,
     "Kilde": "K133 - 115ff"
@@ -1116,6 +1217,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de L. Michel : Les ensembles sémiologiques dans la linguistique française",
     "Event": "Oplæg: Compte rendu de L. Michel : Les ensembles sémiologiques dans la linguistique française",
     "Personer": null,
     "Kilde": null
@@ -1127,6 +1229,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Alliance Française",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: La linguistique française et sa place dans la science internationale",
     "Event": "Foredrag: La linguistique française et sa place dans la science internationale",
     "Personer": null,
     "Kilde": "K133 - 284-86"
@@ -1138,6 +1241,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Engelsklærerforeningen",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Engelsk og almen grammatik",
     "Event": "Foredrag: Engelsk og almen grammatik",
     "Personer": null,
     "Kilde": "K133 - 93"
@@ -1149,6 +1253,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Dansk Missionsselskab",
     "Kategori": "Undervisning",
+    "Tooltip": "Kursus: Almen fonetik",
     "Event": "Kursus: Almen fonetik",
     "Personer": null,
     "Kilde": "K144 - 78"
@@ -1160,6 +1265,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Statsradiofonien",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag i serien Danmark og verdenskulturen: Sproget",
     "Event": "Foredrag i serien Danmark og verdenskulturen: Sproget",
     "Personer": null,
     "Kilde": "K133 - 134ff"
@@ -1171,6 +1277,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de A. Sommerfelt: La langue et la société, 1938",
     "Event": "Oplæg: Compte rendu de A. Sommerfelt: La langue et la société, 1938",
     "Personer": null,
     "Kilde": null
@@ -1182,6 +1289,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de Ed. Hermann: Probleme der Frage, 1942",
     "Event": "Oplæg: Compte rendu de Ed. Hermann: Probleme der Frage, 1942",
     "Personer": null,
     "Kilde": null
@@ -1193,6 +1301,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de Laziczius Gy.: Általános nyelvészet, 1942",
     "Event": "Oplæg: Compte rendu de Laziczius Gy.: Általános nyelvészet, 1942",
     "Personer": null,
     "Kilde": null
@@ -1204,6 +1313,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Nogle iagttagelser i østersøområdet til belysning af sprogforbundsteorien",
     "Event": "Foredrag: Nogle iagttagelser i østersøområdet til belysning af sprogforbundsteorien",
     "Personer": null,
     "Kilde": "K133 - 368ff"
@@ -1215,6 +1325,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Suite de la discussion sur H. Vogt: The Structure of the Norwegian Monosyllables, 1942",
     "Event": "Oplæg: Suite de la discussion sur H. Vogt: The Structure of the Norwegian Monosyllables, 1942",
     "Personer": null,
     "Kilde": null
@@ -1226,6 +1337,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sprogbygning og sprogbrug",
     "Event": "Foredrag: Sprogbygning og sprogbrug",
     "Personer": null,
     "Kilde": "K133 - 383ff"
@@ -1237,6 +1349,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskabet for filosofi og psykologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Objektsprog, metasprog og ikkesprog",
     "Event": "Foredrag: Objektsprog, metasprog og ikkesprog",
     "Personer": null,
     "Kilde": "K133 - 287"
@@ -1248,6 +1361,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Comptes rendus de travaux de L. Novák: Základná jednotka gramatického systému a  jazyková typologia, 1936 – Quelques remarques sur le système phonologique  hongrois, 1936-37 – K základným otázkam štrukturálnej jazykovedy, 1937 – Projet  d’une nouvelle définition du phonème, 1939",
     "Event": "Oplæg: Comptes rendus de travaux de L. Novák: Základná jednotka gramatického systému a  jazyková typologia, 1936 – Quelques remarques sur le système phonologique  hongrois, 1936-37 – K základným otázkam štrukturálnej jazykovedy, 1937 – Projet  d’une nouvelle définition du phonème, 1939",
     "Personer": null,
     "Kilde": null
@@ -1259,6 +1373,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de J. Vachek: Zum Problem der geschriebenen Sprache, 1939",
     "Event": "Oplæg: Compte rendu de J. Vachek: Zum Problem der geschriebenen Sprache, 1939",
     "Personer": null,
     "Kilde": null
@@ -1270,6 +1385,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de J. Kuryłowicz: Struktura morfemu, 1938",
     "Event": "Oplæg: Compte rendu de J. Kuryłowicz: Struktura morfemu, 1938",
     "Personer": null,
     "Kilde": null
@@ -1281,6 +1397,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Hjelmslev présente TCLC 2 & 3, 1944",
     "Event": "Oplæg: Hjelmslev présente TCLC 2 & 3, 1944",
     "Personer": null,
     "Kilde": null
@@ -1292,6 +1409,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Hjelmslev présente AL3, 2-3, 1940-43",
     "Event": "Oplæg: Hjelmslev présente AL3, 2-3, 1940-43",
     "Personer": null,
     "Kilde": null
@@ -1303,6 +1421,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Dansk selskab for oldtids- og middelalderforskning",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Om muligheden af strukturelle metoder i de historiske videnskaber",
     "Event": "Foredrag: Om muligheden af strukturelle metoder i de historiske videnskaber",
     "Personer": null,
     "Kilde": "K134 - 360"
@@ -1314,6 +1433,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Litteraturvidenskabelig studiekreds",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Problemet om humanismens teori",
     "Event": "Foredrag: Problemet om humanismens teori",
     "Personer": null,
     "Kilde": "K134 - 396"
@@ -1325,6 +1445,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de E. Buyssens: Les langages et le discours, 1943",
     "Event": "Oplæg: Compte rendu de E. Buyssens: Les langages et le discours, 1943",
     "Personer": null,
     "Kilde": null
@@ -1336,6 +1457,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Nordistmøde",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K68 - ??"
@@ -1347,6 +1469,7 @@
     "Sted = By / Landområde": "Stockholm, Uppsala",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 236"
@@ -1357,6 +1480,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 236 (ansøgn.), 224 (bekræftelse)"
@@ -1368,6 +1492,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Nombre et genre dans les langues sans différenciation complète des genres",
     "Event": "Oplæg: Nombre et genre dans les langues sans différenciation complète des genres",
     "Personer": null,
     "Kilde": null
@@ -1379,6 +1504,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Liv",
+    "Tooltip": "Medlem",
     "Event": "Medlem",
     "Personer": null,
     "Kilde": "K12 - 140"
@@ -1390,6 +1516,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Base et caractéristique, verbe et phrase nominale",
     "Event": "Oplæg: Base et caractéristique, verbe et phrase nominale",
     "Personer": null,
     "Kilde": null
@@ -1401,6 +1528,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Language and System",
     "Event": "Oplæg: Language and System",
     "Personer": null,
     "Kilde": null
@@ -1412,6 +1540,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1423,6 +1552,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": "Nordiska Språkkonferensen",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K51 - 440"
@@ -1434,6 +1564,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": "Nordiska Språkkonferensen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Semantikens grundproblem",
     "Event": "Oplæg: Semantikens grundproblem",
     "Personer": null,
     "Kilde": "K134 - 410"
@@ -1445,6 +1576,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab ??",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Langue et système / Sprog og system (minde om Kořinek)",
     "Event": "Foredrag: Langue et système / Sprog og system (minde om Kořinek)",
     "Personer": null,
     "Kilde": "K 134 - 149, 134"
@@ -1456,6 +1588,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Apport de l’école genevoise à la linguistique (A l’occasion du décès d’Albert Sechehaye et de la nouvelle édition du chef-d’œuvre de Ch. Bally)",
     "Event": "Oplæg: Apport de l’école genevoise à la linguistique (A l’occasion du décès d’Albert Sechehaye et de la nouvelle édition du chef-d’œuvre de Ch. Bally)",
     "Personer": null,
     "Kilde": null
@@ -1467,6 +1600,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Det filologisk-historiske samfund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Semantikens problem",
     "Event": "Foredrag: Semantikens problem",
     "Personer": null,
     "Kilde": "K 134 - 410"
@@ -1478,6 +1612,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 179 (plan)"
@@ -1489,6 +1624,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Invitation fra (møde med?) Benveniste",
     "Kategori": "N?",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1500,6 +1636,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "CIPL-møde",
     "Event": "CIPL-møde",
     "Personer": null,
     "Kilde": "K51 - 190, K46 - 582, 572"
@@ -1511,6 +1648,7 @@
     "Sted = By / Landområde": "London (Cambridge)",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Mødes med bl.a. Jones, First, Gardiner, (Ogden?)",
     "Kilde": "K51 - 192ff, 201, 208"
@@ -1522,6 +1660,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "University of London",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning 1",
     "Event": "Forelæsning 1",
     "Personer": null,
     "Kilde": null
@@ -1533,6 +1672,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "University of London",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning 2",
     "Event": "Forelæsning 2",
     "Personer": null,
     "Kilde": null
@@ -1544,6 +1684,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "University of London",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning 3",
     "Event": "Forelæsning 3",
     "Personer": null,
     "Kilde": null
@@ -1555,6 +1696,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "Philological Society",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning (lecture): Static and Evolutionary Aspects of Language",
     "Event": "Forelæsning (lecture): Static and Evolutionary Aspects of Language",
     "Personer": "Afbud fra Jones",
     "Kilde": "K134 - 451, 454, K51 - 217"
@@ -1566,6 +1708,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møde",
     "Event": "Møde",
     "Personer": "Alan Gardiner",
     "Kilde": "K51 - 199"
@@ -1577,6 +1720,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Courants actuels de la linguistique aux Etats-Unis",
     "Event": "Oplæg: Courants actuels de la linguistique aux Etats-Unis",
     "Personer": null,
     "Kilde": null
@@ -1588,6 +1732,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 134 (plan), 150, 324-331 (rapport), 240-310, "
@@ -1599,6 +1744,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Middag (incl. møde, bl.a. om dansk lektor)",
     "Event": "Middag (incl. møde, bl.a. om dansk lektor)",
     "Personer": "Middag med Havránek, Skalička, Trnka",
     "Kilde": "K51"
@@ -1610,6 +1756,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møde",
     "Event": "Møde",
     "Personer": "Møde med Trnka (leder af CLP), også om dansk lektor, 14.05-15.05.-16.05.",
     "Kilde": null
@@ -1621,6 +1768,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møde: Emne: International konference april/juni i Prag ",
     "Event": "Møde: Emne: International konference april/juni i Prag ",
     "Personer": "Havránek, Skalička, Mukařovský",
     "Kilde": "K51 - 245"
@@ -1632,6 +1780,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Tjekkiske Videnskabelige Akademi",
     "Kategori": "Netværk",
+    "Tooltip": "Uddeling af forskermedalje",
     "Event": "Uddeling af forskermedalje",
     "Personer": null,
     "Kilde": null
@@ -1643,6 +1792,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Cercle linguistique de Prague",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg : Langues de différents degrés",
     "Event": "Oplæg : Langues de différents degrés",
     "Personer": null,
     "Kilde": "K51 - 247"
@@ -1654,6 +1804,7 @@
     "Sted = By / Landområde": "Brno",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -1665,6 +1816,7 @@
     "Sted = By / Landområde": "Brno",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møde",
     "Event": "Møde",
     "Personer": "bl.a Jiři Straka",
     "Kilde": null
@@ -1676,6 +1828,7 @@
     "Sted = By / Landområde": "Turďianský Svätý Martin (Slovakiet), pinse",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 252"
@@ -1687,6 +1840,7 @@
     "Sted = By / Landområde": "På tur (i bjergene?), F252, F296, Štrbskè Pleso (F307-08)",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1698,6 +1852,7 @@
     "Sted = By / Landområde": "Bratislava",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -1709,6 +1864,7 @@
     "Sted = By / Landområde": "Bratislava",
     "Institution": "Lingvistkredsen i Bratislava",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Le problème de la sémantique",
     "Event": "Oplæg: Le problème de la sémantique",
     "Personer": null,
     "Kilde": null
@@ -1720,6 +1876,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Del af Rejse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -1731,6 +1888,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": "Fonetikafdelingen",
     "Kategori": "Netværk",
+    "Tooltip": "Møde",
     "Event": "Møde",
     "Personer": "Bohuslav Hála",
     "Kilde": "K51 -256"
@@ -1742,6 +1900,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møder",
     "Event": "Møder",
     "Personer": "Vachek",
     "Kilde": null
@@ -1753,6 +1912,7 @@
     "Sted = By / Landområde": "Prag",
     "Institution": null,
     "Kategori": "Del af rejse",
+    "Tooltip": "Afrejse mod København",
     "Event": "Afrejse mod København",
     "Personer": null,
     "Kilde": "K51 - 257"
@@ -1764,6 +1924,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": null,
     "Kategori": "Del af rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1775,6 +1936,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": null,
     "Kategori": "??",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K51 - 141"
@@ -1786,6 +1948,7 @@
     "Sted = By / Landområde": "Uppsala",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "(F129, F 173) (kps.46, F562, brev  til Vendryes,: Collinders finno-ugriske institut, Saareste, også om Menzerath og forhold til tyskerne)"
@@ -1797,6 +1960,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": null,
     "Kategori": "Del af rejsebeskrivelse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -1808,6 +1972,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": "Nyfilologiska föreningen",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Accent och vokalharmoni från den strukturella lingvistikens synspunkt",
     "Event": "Foredrag: Accent och vokalharmoni från den strukturella lingvistikens synspunkt",
     "Personer": null,
     "Kilde": "K51 -116, 62: avis, Nya pressen"
@@ -1819,6 +1984,7 @@
     "Sted = By / Landområde": "Uppsala",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Om språkliga strukturtyper",
     "Event": "Foredrag: Om språkliga strukturtyper",
     "Personer": null,
     "Kilde": "K51 -63, 51: avis om tre typer"
@@ -1830,6 +1996,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": null,
     "Kategori": null,
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1841,6 +2008,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": "(modtages af Lombard",
     "Kilde": "K51 - 40"
@@ -1852,6 +2020,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Lunds Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Moderne franske udtrykssystem ",
     "Event": "Forelæsning: Moderne franske udtrykssystem ",
     "Personer": null,
     "Kilde": "K51 - F26"
@@ -1863,6 +2032,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Lunds Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Om sproglige strukturtyper ",
     "Event": "Forelæsning: Om sproglige strukturtyper ",
     "Personer": "(middag (aften) med Malmberg? F51 - 41 (her omtales også Stockholm-besøg)",
     "Kilde": null
@@ -1874,6 +2044,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Slavistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Strukturel analyse af det russiske udtrykssystem",
     "Event": "Foredrag: Strukturel analyse af det russiske udtrykssystem",
     "Personer": null,
     "Kilde": "K138 - 271ff"
@@ -1885,6 +2056,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de K. Bergsland : Røros-lappisk grammatik, 1946",
     "Event": "Oplæg: Compte rendu de K. Bergsland : Røros-lappisk grammatik, 1946",
     "Personer": null,
     "Kilde": null
@@ -1896,6 +2068,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Sixième Congrès International de Linguistes ",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K70 - 1ff"
@@ -1907,6 +2080,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": "Videnskabelige forhandlinger",
     "Event": "Videnskabelige forhandlinger",
     "Personer": null,
     "Kilde": "K68 - 227, 225"
@@ -1918,6 +2092,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Del af rejse",
+    "Tooltip": "Afrejse mod Sverige",
     "Event": "Afrejse mod Sverige",
     "Personer": null,
     "Kilde": null
@@ -1929,6 +2104,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": null,
     "Kategori": "Del af rejsebeskrivelse",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -1940,6 +2116,7 @@
     "Sted = By / Landområde": "Stockholm - Helsinki",
     "Institution": null,
     "Kategori": "Del af rejsebeskrivelse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1951,6 +2128,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1962,6 +2140,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": "Internordisk Sprogkongres",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse uden oplæg",
     "Event": "Deltagelse uden oplæg",
     "Personer": null,
     "Kilde": "K68 - 199f."
@@ -1973,6 +2152,7 @@
     "Sted = By / Landområde": "Åbo",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -1984,6 +2164,7 @@
     "Sted = By / Landområde": "Åbo - Stockholm",
     "Institution": null,
     "Kategori": "Del af rejsebeskrivelse",
+    "Tooltip": "Natbåd",
     "Event": "Natbåd",
     "Personer": null,
     "Kilde": null
@@ -1995,6 +2176,7 @@
     "Sted = By / Landområde": "Stockholm - København",
     "Institution": null,
     "Kategori": "Del af rejsebeskrivelse",
+    "Tooltip": "Nattog",
     "Event": "Nattog",
     "Personer": null,
     "Kilde": null
@@ -2006,6 +2188,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Grundtræk af det danske udtrykssystem 1",
     "Event": "Oplæg: Grundtræk af det danske udtrykssystem 1",
     "Personer": null,
     "Kilde": "K137 - 147"
@@ -2017,6 +2200,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Selskab for Nordisk Filologi",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Grundtræk af det danske udtrykssystem 2",
     "Event": "Oplæg: Grundtræk af det danske udtrykssystem 2",
     "Personer": null,
     "Kilde": "K137 - 147"
@@ -2028,6 +2212,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le VIe Congrès international de linguistes (Paris 1948)",
     "Event": "Oplæg: Rapport sur le VIe Congrès international de linguistes (Paris 1948)",
     "Personer": null,
     "Kilde": null
@@ -2039,6 +2224,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Le système d’expression du français moderne (à suivre)",
     "Event": "Oplæg: Le système d’expression du français moderne (à suivre)",
     "Personer": null,
     "Kilde": null
@@ -2050,6 +2236,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de E.H. Sturtevant: An Introduction to Linguistic Science, 1947",
     "Event": "Oplæg: Compte rendu de E.H. Sturtevant: An Introduction to Linguistic Science, 1947",
     "Personer": null,
     "Kilde": null
@@ -2061,6 +2248,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvisktkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Compte rendu de J. Eisenson: The Psychology of Speech, 1946",
     "Event": "Oplæg: Compte rendu de J. Eisenson: The Psychology of Speech, 1946",
     "Personer": null,
     "Kilde": null
@@ -2072,6 +2260,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Corpus alienum et deixis",
     "Event": "Oplæg: Corpus alienum et deixis",
     "Personer": null,
     "Kilde": null
@@ -2083,6 +2272,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Le système d’expression du français moderne (suite)",
     "Event": "Oplæg: Le système d’expression du français moderne (suite)",
     "Personer": null,
     "Kilde": null
@@ -2094,6 +2284,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Le système d’expression du français moderne: Discussion (à suivre)",
     "Event": "Oplæg: Le système d’expression du français moderne: Discussion (à suivre)",
     "Personer": null,
     "Kilde": null
@@ -2105,6 +2296,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Suite de la discussion sur le système d’expression du français moderne",
     "Event": "Oplæg: Suite de la discussion sur le système d’expression du français moderne",
     "Personer": null,
     "Kilde": null
@@ -2116,6 +2308,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Syllabe et accent",
     "Event": "Oplæg: Syllabe et accent",
     "Personer": null,
     "Kilde": null
@@ -2127,6 +2320,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Foreløbige undersøgelser til en sammenlignende sprogtypologi",
     "Event": "Foredrag: Foreløbige undersøgelser til en sammenlignende sprogtypologi",
     "Personer": null,
     "Kilde": "K138 - 255ff"
@@ -2138,6 +2332,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "R (N??) ",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Vendryes m.fl.",
     "Kilde": "K50 - 44, 57, 55,63 (henvisning til Rask-oplæg i Oslo)"
@@ -2149,6 +2344,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Université de Paris, Institut d'Études Scandinaves",
     "Kategori": "Foredrag",
+    "Tooltip": "Gæsteforelæsning: Commentaires sur la vie et l’oeuvre de Rasmus Rask",
     "Event": "Gæsteforelæsning: Commentaires sur la vie et l’oeuvre de Rasmus Rask",
     "Personer": null,
     "Kilde": "K132 - 442"
@@ -2160,6 +2356,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Structure générale des corrélations linguistiques",
     "Event": "Oplæg: Structure générale des corrélations linguistiques",
     "Personer": null,
     "Kilde": null
@@ -2171,6 +2368,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Problèmes syntaxiques considérés d’un point de vue structural",
     "Event": "Oplæg: Problèmes syntaxiques considérés d’un point de vue structural",
     "Personer": null,
     "Kilde": null
@@ -2182,6 +2380,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning??",
     "Event": "Forelæsning??",
     "Personer": null,
     "Kilde": "K138 - 391-93"
@@ -2193,6 +2392,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Engelsklærerforeningen",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Sprogteoretisk litteraturvidenskab",
     "Event": "Foredrag: Sprogteoretisk litteraturvidenskab",
     "Personer": null,
     "Kilde": "K134 - 263ff"
@@ -2204,6 +2404,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Sentence Analysis and Syntax",
     "Event": "Oplæg: Sentence Analysis and Syntax",
     "Personer": null,
     "Kilde": null
@@ -2215,6 +2416,7 @@
     "Sted = By / Landområde": "Lund (er kun i Lund onsdag-fredag, K50-421",
     "Institution": "Lunds Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsninger",
     "Event": "Forelæsninger",
     "Personer": "Kontaktperson: Alf Lombard",
     "Kilde": "K50 - 390-435 (læg 3/50), uv.fri, tilladelse 409"
@@ -2226,6 +2428,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Lunds Universitet",
     "Kategori": "Undervisning",
+    "Tooltip": "Kursus i albansk: onsdage 16-18, torsdage 13-15",
     "Event": "Kursus i albansk: onsdage 16-18, torsdage 13-15",
     "Personer": null,
     "Kilde": "K50 - 410"
@@ -2237,6 +2440,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Kungliga humanistiska vetenskapssamfundet i Lund",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: De strukturelle synspunkter i lingvistikken",
     "Event": "Foredrag: De strukturelle synspunkter i lingvistikken",
     "Personer": null,
     "Kilde": "K137 - 1ff"
@@ -2248,6 +2452,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Semantikens grundproblem",
     "Event": "Foredrag: Semantikens grundproblem",
     "Personer": null,
     "Kilde": "K134 - 410"
@@ -2259,6 +2464,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: The Problem of Case (devant la Commission glossématique)",
     "Event": "Oplæg: The Problem of Case (devant la Commission glossématique)",
     "Personer": null,
     "Kilde": null
@@ -2270,6 +2476,7 @@
     "Sted = By / Landområde": "Edinburgh",
     "Institution": "University of Edinburgh",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsninger (3 lectures) (som i London 1946, K51 - 463): Structural Analysis of Language",
     "Event": "Forelæsninger (3 lectures) (som i London 1946, K51 - 463): Structural Analysis of Language",
     "Personer": "Uldall med flere ",
     "Kilde": "K51 - 448"
@@ -2281,6 +2488,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K71 - 84"
@@ -2292,6 +2500,7 @@
     "Sted = By / Landområde": "Stockholm - Helsinki",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Natbåd",
     "Event": "Natbåd",
     "Personer": null,
     "Kilde": null
@@ -2303,6 +2512,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2314,6 +2524,7 @@
     "Sted = By / Landområde": "Koli Turiststation, Vuonislahti",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2324,6 +2535,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2335,6 +2547,7 @@
     "Sted = By / Landområde": "Åbo",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2346,6 +2559,7 @@
     "Sted = By / Landområde": "Helsinki - Åbo",
     "Institution": "Det nionde nordiska filologmötet ",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse ",
     "Event": "Deltagelse ",
     "Personer": null,
     "Kilde": "K71 - 6ff"
@@ -2357,6 +2571,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": "Det nionde nordiska filologmötet ",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg i sektionen for almen sprogvidenskab: Den finska stadieväxlingen som strukturlingvistiskt problem ",
     "Event": "Oplæg i sektionen for almen sprogvidenskab: Den finska stadieväxlingen som strukturlingvistiskt problem ",
     "Personer": null,
     "Kilde": "skal publiceres i AL som ”L’alternance consonantique du finnois”"
@@ -2368,6 +2583,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2379,6 +2595,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le IXe Congrès scandinave de philologie (Helsinki et Åbo 1950)",
     "Event": "Oplæg: Rapport sur le IXe Congrès scandinave de philologie (Helsinki et Åbo 1950)",
     "Personer": null,
     "Kilde": null
@@ -2390,6 +2607,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K146 - 341 (ansøgning 230950), K46 - 510"
@@ -2401,6 +2619,7 @@
     "Sted = By / Landområde": "Stockholm, Uppsala",
     "Institution": "4. nordiske lingvistkonference , Nature Method ",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K146 - 376"
@@ -2412,6 +2631,7 @@
     "Sted = By / Landområde": "Uppsala",
     "Institution": "4. nordiske lingvistkonference , Nature Method ",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Static and Evolutionary Aspects of Language",
     "Event": "Oplæg: Static and Evolutionary Aspects of Language",
     "Personer": null,
     "Kilde": "K146 -326, 510 (FG2,40)"
@@ -2422,6 +2642,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -2433,6 +2654,7 @@
     "Sted = By / Landområde": "Nice",
     "Institution": "Conférence européenne de sémantique ",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K71 -"
@@ -2444,6 +2666,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: La déclinaison hongroise ",
     "Event": "Oplæg: La déclinaison hongroise ",
     "Personer": null,
     "Kilde": null
@@ -2455,6 +2678,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "UNESCO",
     "Kategori": "Netværk",
+    "Tooltip": "Møde om : The Problem of Human Behavior As Revealed by Speech",
     "Event": "Møde om : The Problem of Human Behavior As Revealed by Speech",
     "Personer": "K68 -365: Sommerfelt, Firth, Benveniste, Greenberg, Levi-Strauss, Vogt  ",
     "Kilde": "K68 - 229-428"
@@ -2466,6 +2690,7 @@
     "Sted = By / Landområde": "Liège",
     "Institution": "Congrès international de philologie moderne ",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 448??"
@@ -2477,6 +2702,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg (sammen med C.A. Bodelsen): Rapport sur le Congrès international de philologie moderne,  Liège sept. 1951",
     "Event": "Oplæg (sammen med C.A. Bodelsen): Rapport sur le Congrès international de philologie moderne,  Liège sept. 1951",
     "Personer": null,
     "Kilde": null
@@ -2488,6 +2714,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": "Rundtur",
     "Event": "Rundtur",
     "Personer": null,
     "Kilde": null
@@ -2499,6 +2726,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Afrejse",
     "Event": "Afrejse",
     "Personer": null,
     "Kilde": null
@@ -2510,6 +2738,7 @@
     "Sted = By / Landområde": "New York",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K50 - 70-387"
@@ -2521,6 +2750,7 @@
     "Sted = By / Landområde": "New York",
     "Institution": "Columbia University",
     "Kategori": "Foredrag",
+    "Tooltip": "Lecture",
     "Event": "Lecture",
     "Personer": null,
     "Kilde": null
@@ -2532,6 +2762,7 @@
     "Sted = By / Landområde": "Cambridge, Mass.",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -2543,6 +2774,7 @@
     "Sted = By / Landområde": "Cambridge, Mass.",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rasmus Rask: His Scientific Achievements",
     "Event": "Oplæg: Rasmus Rask: His Scientific Achievements",
     "Personer": null,
     "Kilde": "K50 - 204"
@@ -2554,6 +2786,7 @@
     "Sted = By / Landområde": "Cambridge, Mass.",
     "Institution": "Philological Club",
     "Kategori": "Netværk",
+    "Tooltip": "Supper Meeting",
     "Event": "Supper Meeting",
     "Personer": null,
     "Kilde": null
@@ -2565,6 +2798,7 @@
     "Sted = By / Landområde": "Cambridge, Mass.",
     "Institution": "MIT",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag + diskussion (eftermiddag): The contributions which linguistics can make to communications engineering",
     "Event": "Foredrag + diskussion (eftermiddag): The contributions which linguistics can make to communications engineering",
     "Personer": null,
     "Kilde": null
@@ -2576,6 +2810,7 @@
     "Sted = By / Landområde": "Cambridge, Mass.",
     "Institution": "Harvard, Modern Language Center, Students Harvard Linguistics Club ",
     "Kategori": "Foredrag",
+    "Tooltip": "Spørgetime ledet af Robert B. Lees",
     "Event": "Spørgetime ledet af Robert B. Lees",
     "Personer": null,
     "Kilde": "K50 . 75ff"
@@ -2587,6 +2822,7 @@
     "Sted = By / Landområde": "New Haven Connecticut",
     "Institution": "Yale University",
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -2598,6 +2834,7 @@
     "Sted = By / Landområde": "New Haven Connecticut",
     "Institution": "Yale University",
     "Kategori": null,
+    "Tooltip": "????",
     "Event": "????",
     "Personer": null,
     "Kilde": null
@@ -2609,6 +2846,7 @@
     "Sted = By / Landområde": "New York",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": null
@@ -2620,6 +2858,7 @@
     "Sted = By / Landområde": "Minneapolis",
     "Institution": null,
     "Kategori": null,
+    "Tooltip": "Ophold",
     "Event": "Ophold",
     "Personer": "bolig Steefel",
     "Kilde": "K50, F189-192"
@@ -2631,6 +2870,7 @@
     "Sted = By / Landområde": "Minneapolis",
     "Institution": "University of Minnesota",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Rasmus Rask (1787-1832) - Pioneer of Comparative Phonology",
     "Event": "Foredrag: Rasmus Rask (1787-1832) - Pioneer of Comparative Phonology",
     "Personer": null,
     "Kilde": "K50 - 190"
@@ -2642,6 +2882,7 @@
     "Sted = By / Landområde": "Minneapolis",
     "Institution": "Linguistic Club",
     "Kategori": "Netværk",
+    "Tooltip": "Dinner Meeting",
     "Event": "Dinner Meeting",
     "Personer": null,
     "Kilde": null
@@ -2653,6 +2894,7 @@
     "Sted = By / Landområde": "Star Island, Cass Lake",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Udflugt",
     "Event": "Udflugt",
     "Personer": null,
     "Kilde": "K50 - 246, 273, 194"
@@ -2664,6 +2906,7 @@
     "Sted = By / Landområde": "Chicago",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Seminar on Glossematics: Informal discussion on the glossematic approach for those directly interested in linguistics",
     "Event": "Seminar on Glossematics: Informal discussion on the glossematic approach for those directly interested in linguistics",
     "Personer": null,
     "Kilde": "K50 - 201"
@@ -2675,6 +2918,7 @@
     "Sted = By / Landområde": "Chicago",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Public lecture on Rasmus Rask (for a more general audience)",
     "Event": "Public lecture on Rasmus Rask (for a more general audience)",
     "Personer": "Dinner with Napier Wilt",
     "Kilde": "K50 - 232, 188"
@@ -2686,6 +2930,7 @@
     "Sted = By / Landområde": "Chicago",
     "Institution": "Chicago Linguistic Society",
     "Kategori": "Foredrag",
+    "Tooltip": "Informal discussion: Some Basic Assumptions of Glossematic Theory",
     "Event": "Informal discussion: Some Basic Assumptions of Glossematic Theory",
     "Personer": null,
     "Kilde": "K50 - 183, 194"
@@ -2697,6 +2942,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Society, Linguistic Institute",
     "Kategori": "Liv",
+    "Tooltip": "Visiting professor",
     "Event": "Visiting professor",
     "Personer": "bolig: Otto J. Brendels lejlighed",
     "Kilde": "K50 - 184, 247"
@@ -2708,6 +2954,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute, Summer Session",
     "Kategori": "Undervisning",
+    "Tooltip": "Kursus: Albanian, tirs- & torsdage 10.30-12.20",
     "Event": "Kursus: Albanian, tirs- & torsdage 10.30-12.20",
     "Personer": null,
     "Kilde": null
@@ -2719,6 +2966,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute, Summer Session",
     "Kategori": "Undervisning",
+    "Tooltip": "Kursus: Structural Analysis of Language, ons- & fredage 10.30-12.20",
     "Event": "Kursus: Structural Analysis of Language, ons- & fredage 10.30-12.20",
     "Personer": null,
     "Kilde": null
@@ -2730,6 +2978,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Oversættelses-samarbejde med F.J. Whitfield",
     "Event": "Oversættelses-samarbejde med F.J. Whitfield",
     "Personer": "Whitfield",
     "Kilde": "K50 - brev til Martinet 051152"
@@ -2741,6 +2990,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute, Summer Session",
     "Kategori": "Netværk",
+    "Tooltip": "Reception",
     "Event": "Reception",
     "Personer": null,
     "Kilde": "K50 - 168, 169"
@@ -2752,6 +3002,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute",
     "Kategori": "Foredrag",
+    "Tooltip": "Forum Lecture: Rasmus Rask - A Pioneer of Structural Linguistics",
     "Event": "Forum Lecture: Rasmus Rask - A Pioneer of Structural Linguistics",
     "Personer": null,
     "Kilde": "K50 - 162"
@@ -2763,6 +3014,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Conference of Anthropologists and Linguists at the Linguistic Institute",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 149-150"
@@ -2774,6 +3026,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Conference of Anthropologists and Linguists at the Linguistic Institute",
     "Kategori": "Netværk",
+    "Tooltip": "Hjelmslev er Chairman med Voegelin som introducer: Dialect Distance and Culture History",
     "Event": "Hjelmslev er Chairman med Voegelin som introducer: Dialect Distance and Culture History",
     "Personer": null,
     "Kilde": null
@@ -2785,6 +3038,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute",
     "Kategori": "Netværk",
+    "Tooltip": "Open House",
     "Event": "Open House",
     "Personer": null,
     "Kilde": "K50 - 148"
@@ -2796,6 +3050,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Middag hos Chao's",
     "Event": "Middag hos Chao's",
     "Personer": "Chao",
     "Kilde": "K50 - 147"
@@ -2807,6 +3062,7 @@
     "Sted = By / Landområde": "Bloomington, Indiana University",
     "Institution": "Linguistic Institute",
     "Kategori": "Netværk",
+    "Tooltip": "Picnic",
     "Event": "Picnic",
     "Personer": "Chao, Hill, Hockett, Hoge, Householder, Valentin Kiparski, George S.  Lane, Sebeok, Henry Lee Smith, Twaddell, Voegelin, Teng, Velten, Whitehall, Max  Zorn. ",
     "Kilde": "K50 - 135, 156"
@@ -2818,6 +3074,7 @@
     "Sted = By / Landområde": "Indianapolis",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K20 -26"
@@ -2829,6 +3086,7 @@
     "Sted = By / Landområde": "Denver, Colorado",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K20 - 23, 27, 28"
@@ -2840,6 +3098,7 @@
     "Sted = By / Landområde": "New York",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Afgang",
     "Event": "Afgang",
     "Personer": null,
     "Kilde": "K20 - 27, K50 - 73, 129"
@@ -2851,6 +3110,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K50 - 74"
@@ -2862,6 +3122,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le 4e Conférence Internationale d’Anthropologie et de Linguistique, ",
     "Event": "Oplæg: Rapport sur le 4e Conférence Internationale d’Anthropologie et de Linguistique, ",
     "Personer": "Bloomington, Indiana, 1952",
     "Kilde": null
@@ -2873,6 +3134,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Den internationale sprogvidenskabs nuværende stilling",
     "Event": "Foredrag: Den internationale sprogvidenskabs nuværende stilling",
     "Personer": null,
     "Kilde": "K47 - 158, 181"
@@ -2884,6 +3146,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Meddelelse: Principes de linguistique génétique",
     "Event": "Meddelelse: Principes de linguistique génétique",
     "Personer": null,
     "Kilde": "K50 -  551"
@@ -2895,6 +3158,7 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "To forelæsninger",
     "Event": "To forelæsninger",
     "Personer": null,
     "Kilde": "K21 - 349 (brev til Bergsland)"
@@ -2906,6 +3170,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Afrejse",
     "Event": "Afrejse",
     "Personer": null,
     "Kilde": null
@@ -2917,6 +3182,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": "Ankomst",
     "Event": "Ankomst",
     "Personer": null,
     "Kilde": "K137 - 103"
@@ -2928,6 +3194,7 @@
     "Sted = By / Landområde": "Stockholm",
     "Institution": "Filosofiska Föreningen i Stockholm & Filologiska Föreningen, Stockholms Högskola",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Nogle grundprincipper for lingvistisk analyse",
     "Event": "Foredrag: Nogle grundprincipper for lingvistisk analyse",
     "Personer": null,
     "Kilde": "K137 - 97"
@@ -2939,6 +3206,7 @@
     "Sted = By / Landområde": "Uppsala",
     "Institution": "Filosofiska Föreningen, Uppsala",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag",
     "Event": "Foredrag",
     "Personer": null,
     "Kilde": null
@@ -2950,6 +3218,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Oslo Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Sprogets grundstruktur belyst ved simple modeller",
     "Event": "Forelæsning: Sprogets grundstruktur belyst ved simple modeller",
     "Personer": null,
     "Kilde": "K137 - 31, 37"
@@ -2961,6 +3230,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Oslo Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Sprogets grundstruktur belyst ved simple modeller",
     "Event": "Forelæsning: Sprogets grundstruktur belyst ved simple modeller",
     "Personer": null,
     "Kilde": "K137 - 31, 37"
@@ -2972,6 +3242,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "UNESCO Meeting",
     "Kategori": "Netværk",
+    "Tooltip": "The Problem of Human Behavior As Revealed by Speech",
     "Event": "The Problem of Human Behavior As Revealed by Speech",
     "Personer": null,
     "Kilde": "K68 - 359"
@@ -2983,6 +3254,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Norsk forening for språkvitenskap ",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Bidrag til læren om sproglige strukturtyper",
     "Event": "Foredrag: Bidrag til læren om sproglige strukturtyper",
     "Personer": null,
     "Kilde": "K137 - 20-62, 36"
@@ -2994,6 +3266,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Tale ved universitetets årsfest: Sprogets indholdsform som samfundsfaktor",
     "Event": "Tale ved universitetets årsfest: Sprogets indholdsform som samfundsfaktor",
     "Personer": null,
     "Kilde": null
@@ -3005,6 +3278,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "UNESCO Meeting",
     "Kategori": "Netværk",
+    "Tooltip": "The Problem of Human Behavior As Revealed by Speech",
     "Event": "The Problem of Human Behavior As Revealed by Speech",
     "Personer": null,
     "Kilde": "K68 - 343"
@@ -3016,6 +3290,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "Norsk Videnskaps-Akademi",
     "Kategori": "Liv",
+    "Tooltip": "Brev om valg LH til akademiet",
     "Event": "Brev om valg LH til akademiet",
     "Personer": null,
     "Kilde": "K73 - 81"
@@ -3027,6 +3302,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Introduction à une discussion sur G. Bech : Studien über das deutsche verbum infinitivum",
     "Event": "Oplæg: Introduction à une discussion sur G. Bech : Studien über das deutsche verbum infinitivum",
     "Personer": null,
     "Kilde": null
@@ -3038,6 +3314,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "The Second International Congress of Classical Studies. J.N. Madvig Congress",
     "Kategori": "Liv",
+    "Tooltip": "LH holder indledningstale 23.08. i stedet for rektor",
     "Event": "LH holder indledningstale 23.08. i stedet for rektor",
     "Personer": null,
     "Kilde": "K57 - 53ff"
@@ -3049,6 +3326,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Menneskeracerne og sprogene II",
     "Event": "Foredrag: Menneskeracerne og sprogene II",
     "Personer": null,
     "Kilde": "K65 - 70"
@@ -3060,6 +3338,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: La classification des variantes et la description de la substance des catégories",
     "Event": "Oplæg: La classification des variantes et la description de la substance des catégories",
     "Personer": null,
     "Kilde": null
@@ -3071,6 +3350,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Discussion de La classification des variantes et la description de la substance des catégories",
     "Event": "Oplæg: Discussion de La classification des variantes et la description de la substance des catégories",
     "Personer": null,
     "Kilde": null
@@ -3082,6 +3362,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "Del  af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3093,6 +3374,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "Netværk",
+    "Tooltip": "Møder: med Straka, Fourquet, Marcel Simon",
     "Event": "Møder: med Straka, Fourquet, Marcel Simon",
     "Personer": "Straka, Fourquet, Simon",
     "Kilde": "K50 - 439"
@@ -3104,6 +3386,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": "Universitetet",
     "Kategori": "Netværk",
+    "Tooltip": "Indvielse af dansk lektorat",
     "Event": "Indvielse af dansk lektorat",
     "Personer": null,
     "Kilde": "K50 - 439, 472"
@@ -3115,6 +3398,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning",
     "Event": "Forelæsning",
     "Personer": null,
     "Kilde": "K50 - 439"
@@ -3126,6 +3410,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "??",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3137,6 +3422,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Konference? (K50 - 472)",
     "Kategori": "??",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3148,6 +3434,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Danske Ambassade",
     "Kategori": "Netværk",
+    "Tooltip": "Møde med danske ambassadør",
     "Event": "Møde med danske ambassadør",
     "Personer": null,
     "Kilde": "K50 - 455"
@@ -3159,6 +3446,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "For Nordisk Sprog- og Kulturforlag",
     "Kategori": "Netværk",
+    "Tooltip": "Møde: Fernand Mossé",
     "Event": "Møde: Fernand Mossé",
     "Personer": null,
     "Kilde": "K50 - 438"
@@ -3170,6 +3458,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Y a-t-il en latin un cas instrumental?",
     "Event": "Oplæg: Y a-t-il en latin un cas instrumental?",
     "Personer": null,
     "Kilde": null
@@ -3181,6 +3470,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K137 - 77"
@@ -3192,6 +3482,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Lunds Universitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsninger: Det latinske kasussystem??",
     "Event": "Forelæsninger: Det latinske kasussystem??",
     "Personer": null,
     "Kilde": "K137 - 78"
@@ -3203,6 +3494,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Filosofiska Föreningen och Filologiska Sällskapet ",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Nogle grundprincipper for lingvistisk analyse",
     "Event": "Foredrag: Nogle grundprincipper for lingvistisk analyse",
     "Personer": null,
     "Kilde": "K137 - 63ff."
@@ -3214,6 +3506,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: LH ouvre une discussion sur le contenu sémantique du genre grammatical",
     "Event": "Oplæg: LH ouvre une discussion sur le contenu sémantique du genre grammatical",
     "Personer": null,
     "Kilde": null
@@ -3225,6 +3518,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: LH présente son ouvrage : Stratification du langage",
     "Event": "Oplæg: LH présente son ouvrage : Stratification du langage",
     "Personer": null,
     "Kilde": null
@@ -3236,6 +3530,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: qui et que en français",
     "Event": "Oplæg: qui et que en français",
     "Personer": null,
     "Kilde": null
@@ -3247,6 +3542,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K46 - 376"
@@ -3258,6 +3554,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "CIPL",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Belic, Benveniste, Deeters, Hjelmslev, Michaëlsson, Mohrmann, Norman, Pop,Sommerfelt, Vogt, Whatmough",
     "Kilde": "K46 - 261"
@@ -3269,6 +3566,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K68 - …, K50 - 530. K50 - 541 (bortrejse: Unesco, lektorat), 543 grundig ansøgning"
@@ -3280,6 +3578,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "UNESCO",
     "Kategori": "Netværk",
+    "Tooltip": "The Problem of Human Behavior As Revealed by Speech: Møde",
     "Event": "The Problem of Human Behavior As Revealed by Speech: Møde",
     "Personer": "Sommerfelt, J.P. Firth, R. Firth, Hoijer, Vogt (afbud fra Benveniste, Levi-Strauss",
     "Kilde": "K68 - 253, 261"
@@ -3291,6 +3590,7 @@
     "Sted = By / Landområde": "London",
     "Institution": "Møde med Firth",
     "Kategori": "Netværk",
+    "Tooltip": "Om 'lingua latina' (naturmetoden) i England",
     "Event": "Om 'lingua latina' (naturmetoden) i England",
     "Personer": "Firth",
     "Kilde": "K50 - 520"
@@ -3302,6 +3602,7 @@
     "Sted = By / Landområde": "Oxford",
     "Institution": "Møde med Palmer",
     "Kategori": "Netværk",
+    "Tooltip": "Om 'lingua latina' (naturmetoden) i England",
     "Event": "Om 'lingua latina' (naturmetoden) i England",
     "Personer": "Palmer",
     "Kilde": "K50 - 520"
@@ -3313,6 +3614,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Møder med ???",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 542"
@@ -3324,6 +3626,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K69 - 225"
@@ -3335,6 +3638,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Møder med ???",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K69 - 225"
@@ -3346,6 +3650,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": "Kollokvium og møder med ??",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K69 - 225"
@@ -3357,6 +3662,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": "Colloque de linguistique structurale",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: L'idée structuralise en linguistique",
     "Event": "Oplæg: L'idée structuralise en linguistique",
     "Personer": null,
     "Kilde": "K69 - 209"
@@ -3368,6 +3674,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Møder med ???",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K69 - 209"
@@ -3379,6 +3686,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Thirty-Second International Congress of Americanists",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K69 - 167, 189"
@@ -3390,6 +3698,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Thirty-Second International Congress of Americanists",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Essai d'une critique de la méthode dite glotto-chronologie ",
     "Event": "Oplæg: Essai d'une critique de la méthode dite glotto-chronologie ",
     "Personer": null,
     "Kilde": "K69 - 189"
@@ -3401,6 +3710,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Studies in the Structure of the Junction",
     "Event": "Studies in the Structure of the Junction",
     "Personer": null,
     "Kilde": null
@@ -3412,6 +3722,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Sur l’indépendance de l’épithète",
     "Event": "Sur l’indépendance de l’épithète",
     "Personer": null,
     "Kilde": "K144 - 779"
@@ -3423,6 +3734,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Rapport sur le 32e Congrès d’Américanistique ",
     "Event": "Rapport sur le 32e Congrès d’Américanistique ",
     "Personer": null,
     "Kilde": null
@@ -3434,6 +3746,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Sommeruniversitetet",
     "Kategori": "Foredrag",
+    "Tooltip": "Helhed og struktur i sprogvidenskaben",
     "Event": "Helhed og struktur i sprogvidenskaben",
     "Personer": null,
     "Kilde": "K137 - 129"
@@ -3445,6 +3758,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Videnskabernes Selskab",
     "Kategori": "Foredrag",
+    "Tooltip": "Meddelelse: Etudes ougriennes. 1. Thème et suffixation. II. La système de l'expression.",
     "Event": "Meddelelse: Etudes ougriennes. 1. Thème et suffixation. II. La système de l'expression.",
     "Personer": null,
     "Kilde": null
@@ -3456,6 +3770,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: On Unit-Accentuation",
     "Event": "Oplæg: On Unit-Accentuation",
     "Personer": null,
     "Kilde": null
@@ -3467,6 +3782,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3478,6 +3794,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "Del af R /N",
+    "Tooltip": "Møder med (program K52-7) Martinet, Fourquet, Vendryes, Fenger, Cohen, Hoder, Arthur Jensen??",
     "Event": "Møder med (program K52-7) Martinet, Fourquet, Vendryes, Fenger, Cohen, Hoder, Arthur Jensen??",
     "Personer": null,
     "Kilde": "K52 - 25ff."
@@ -3489,6 +3806,7 @@
     "Sted = By / Landområde": "Caen",
     "Institution": null,
     "Kategori": "Del af R / N",
+    "Tooltip": "Møder med Frédéric Durand, Børge Olesen ",
     "Event": "Møder med Frédéric Durand, Børge Olesen ",
     "Personer": null,
     "Kilde": "K52 - 3, 15-19"
@@ -3500,6 +3818,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "8th International Congress of Linguists ",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K46 - 379ff"
@@ -3511,6 +3830,7 @@
     "Sted = By / Landområde": "Oslo",
     "Institution": "8th International Congress of Linguists ",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg som rapporteur: Dans quelle mesure les significations des mots peuvent-elles être considerées comme formant une structure?",
     "Event": "Oplæg som rapporteur: Dans quelle mesure les significations des mots peuvent-elles être considerées comme formant une structure?",
     "Personer": null,
     "Kilde": null
@@ -3522,6 +3842,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Le principe saussurien du caractère linéaire du signifiant",
     "Event": "Oplæg: Le principe saussurien du caractère linéaire du signifiant",
     "Personer": null,
     "Kilde": null
@@ -3533,6 +3854,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Conférence officielle à l’occasion du centenaire de Ferdinand de Saussure, par LH",
     "Event": "Oplæg: Conférence officielle à l’occasion du centenaire de Ferdinand de Saussure, par LH",
     "Personer": null,
     "Kilde": "K65 - 373"
@@ -3544,6 +3866,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le 8e Congrès international de linguistes, Oslo 1957 (avec Eli Fischer-Jørgensen)",
     "Event": "Oplæg: Rapport sur le 8e Congrès international de linguistes, Oslo 1957 (avec Eli Fischer-Jørgensen)",
     "Personer": null,
     "Kilde": null
@@ -3555,6 +3878,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: LH présente l’ouvrage de L. Hjelmslev et de H.J. Uldall: An Outline of Glossematics, vol. I, H.J. Uldall: General Theory",
     "Event": "Oplæg: LH présente l’ouvrage de L. Hjelmslev et de H.J. Uldall: An Outline of Glossematics, vol. I, H.J. Uldall: General Theory",
     "Personer": null,
     "Kilde": null
@@ -3566,6 +3890,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Nordisk Sommeruniversitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Udviklngstanken i lingvistikken",
     "Event": "Foredrag: Udviklngstanken i lingvistikken",
     "Personer": null,
     "Kilde": "K68-432"
@@ -3577,6 +3902,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Nordisk Sommeruniversitet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Lydudvikling og lydvariation",
     "Event": "Foredrag: Lydudvikling og lydvariation",
     "Personer": null,
     "Kilde": "K68-432"
@@ -3588,6 +3914,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K45 - 394"
@@ -3599,6 +3926,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": "Société finno-ougriènne. 75e anniversaire ",
     "Kategori": "Netværk",
+    "Tooltip": "Jubilæumshilsner fra Videnskabernes Selskab og Lingvistkredsen, taler holdt på finsk",
     "Event": "Jubilæumshilsner fra Videnskabernes Selskab og Lingvistkredsen, taler holdt på finsk",
     "Personer": null,
     "Kilde": "K45 - 366ff."
@@ -3610,6 +3938,7 @@
     "Sted = By / Landområde": "Helsinki",
     "Institution": "Congrès Finno-Ougrien",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K45 - 390"
@@ -3621,6 +3950,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Rapport sur le 75e anniversaire de la Société Finno-Ougrienne et du Congrès Finno-Ougrien tenus à Helsinki en décembre 1958",
     "Event": "Oplæg: Rapport sur le 75e anniversaire de la Société Finno-Ougrienne et du Congrès Finno-Ougrien tenus à Helsinki en décembre 1958",
     "Personer": null,
     "Kilde": null
@@ -3632,6 +3962,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Considérations sur la standardisation internationale de la notion phonétique",
     "Event": "Oplæg: Considérations sur la standardisation internationale de la notion phonétique",
     "Personer": null,
     "Kilde": null
@@ -3643,6 +3974,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3654,6 +3986,7 @@
     "Sted = By / Landområde": "Rom",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3665,6 +3998,7 @@
     "Sted = By / Landområde": "Rom",
     "Institution": "Conventus Romanus. 5. lingvistkongres",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": null
@@ -3676,6 +4010,7 @@
     "Sted = By / Landområde": "Rom",
     "Institution": "Conventus Romanus. 5. lingvistkongres",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Commutation et substitution de principe constitutif du mécanisme de la langue ",
     "Event": "Oplæg: Commutation et substitution de principe constitutif du mécanisme de la langue ",
     "Personer": null,
     "Kilde": "K65"
@@ -3687,6 +4022,7 @@
     "Sted = By / Landområde": "Rom",
     "Institution": "Biblioteca Apostolica Vaticana",
     "Kategori": "Liv",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 192"
@@ -3698,6 +4034,7 @@
     "Sted = By / Landområde": "Napoli",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 202"
@@ -3709,6 +4046,7 @@
     "Sted = By / Landområde": "Sorrento",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 172, 173"
@@ -3720,6 +4058,7 @@
     "Sted = By / Landområde": "Castrovillari",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 146"
@@ -3731,6 +4070,7 @@
     "Sted = By / Landområde": "Cosenza",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 148"
@@ -3742,6 +4082,7 @@
     "Sted = By / Landområde": "Palermo",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 153, 159"
@@ -3753,6 +4094,7 @@
     "Sted = By / Landområde": "Siracusa",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 159"
@@ -3764,6 +4106,7 @@
     "Sted = By / Landområde": "Rom",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 159"
@@ -3775,6 +4118,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3786,6 +4130,7 @@
     "Sted = By / Landområde": "Lund",
     "Institution": "Filologiska Sällskapet",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Talordene. Bidrag til en almen og sammenlignende lexikalsk og grammatiks beskrivelse",
     "Event": "Foredrag: Talordene. Bidrag til en almen og sammenlignende lexikalsk og grammatiks beskrivelse",
     "Personer": null,
     "Kilde": "K138 - 308ff."
@@ -3797,6 +4142,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Lingvistkredsen",
     "Kategori": "Foredrag",
+    "Tooltip": "Oplæg: Une nouvelle interprétation des différents temps du subjonctif dans certaines langues (Exemples principaux : latin classique et allemand normal)",
     "Event": "Oplæg: Une nouvelle interprétation des différents temps du subjonctif dans certaines langues (Exemples principaux : latin classique et allemand normal)",
     "Personer": null,
     "Kilde": null
@@ -3808,6 +4154,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 218ff"
@@ -3819,6 +4166,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": "Centre européen universitaire (CEU)",
     "Kategori": "Netværk",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K 52 - 246"
@@ -3830,6 +4178,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": "Centre européen universitaire (CEU)",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning (første 2 af 4): Conditions sociales et politiques des langues dans les pays du nord ",
     "Event": "Forelæsning (første 2 af 4): Conditions sociales et politiques des langues dans les pays du nord ",
     "Personer": null,
     "Kilde": "K52 - 246, K147 - 1f., 17ff"
@@ -3841,6 +4190,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": "Centre européen universitaire (CEU)",
     "Kategori": "Netværk",
+    "Tooltip": "Følge lingvistiktime på CEU",
     "Event": "Følge lingvistiktime på CEU",
     "Personer": null,
     "Kilde": "K52 - 246"
@@ -3852,6 +4202,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": "Centre européen universitaire (CEU)",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag for danskstuderende: Genus",
     "Event": "Foredrag for danskstuderende: Genus",
     "Personer": null,
     "Kilde": "K52 - 246"
@@ -3863,6 +4214,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": "Centre européen universitaire (CEU)",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning 3-4 : Conditions sociales et politiques des langues dans les pays du nord ",
     "Event": "Forelæsning 3-4 : Conditions sociales et politiques des langues dans les pays du nord ",
     "Personer": null,
     "Kilde": "K52 - 246, K147 - 1f., 17ff"
@@ -3874,6 +4226,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Mødes nok med Henning Fenger, Maurice Gravier, Benveniste, Mme. Vendryes (K52 - 235 (oplæg på Sorbonne, skandinavisk), 241, 244-45)",
     "Kilde": null
@@ -3885,6 +4238,7 @@
     "Sted = By / Landområde": "Stanford University, Stanford",
     "Institution": "International Congress for logic, methodology and philosophy of science",
     "Kategori": "Netværk",
+    "Tooltip": "Deltagelse",
     "Event": "Deltagelse",
     "Personer": null,
     "Kilde": "K49 - 1, 32"
@@ -3896,6 +4250,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 569ff, 592 (flybillet), 604, 633"
@@ -3907,6 +4262,7 @@
     "Sted = By / Landområde": "London",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 575"
@@ -3918,6 +4274,7 @@
     "Sted = By / Landområde": "Cambridge",
     "Institution": "c/o Elias Bredsdorff",
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K50 - 600, 723"
@@ -3929,6 +4286,7 @@
     "Sted = By / Landområde": "Cambridge",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Accent, Vowel Harmony, and Syllable, an Example of Linguistic Typology ",
     "Event": "Foredrag: Accent, Vowel Harmony, and Syllable, an Example of Linguistic Typology ",
     "Personer": "W.S. Allen, Chadwick",
     "Kilde": "K138 - 253"
@@ -3940,6 +4298,7 @@
     "Sted = By / Landområde": "Caen",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3951,6 +4310,7 @@
     "Sted = By / Landområde": "Caen",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Le genre grammatical du français et du danois",
     "Event": "Foredrag: Le genre grammatical du français et du danois",
     "Personer": "Frédéric Durand",
     "Kilde": "K50 - 682. 684"
@@ -3962,6 +4322,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -3973,6 +4334,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Sorbonne, Institut scandinavique eller de inguistique",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Le genre grammatical du français et du danois",
     "Event": "Forelæsning: Le genre grammatical du français et du danois",
     "Personer": "Gravier",
     "Kilde": "K50 - 633, 677"
@@ -3984,6 +4346,7 @@
     "Sted = By / Landområde": "Paris",
     "Institution": "Société de Linguistique de Paris",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Les mutations linguistiques, essai de synthèse et de mise au point",
     "Event": "Foredrag: Les mutations linguistiques, essai de synthèse et de mise au point",
     "Personer": null,
     "Kilde": "K50 - 633, 690"
@@ -3995,6 +4358,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -4006,6 +4370,7 @@
     "Sted = By / Landområde": "Nancy",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Les degrés de comparaison",
     "Event": "Foredrag: Les degrés de comparaison",
     "Personer": null,
     "Kilde": null
@@ -4017,6 +4382,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Straka",
     "Kilde": "K50 - 582"
@@ -4028,6 +4394,7 @@
     "Sted = By / Landområde": "Strasbourg",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Le genre grammatical du français et du danois",
     "Event": "Le genre grammatical du français et du danois",
     "Personer": "Marcel Simon",
     "Kilde": "K50 - 583"
@@ -4039,6 +4406,7 @@
     "Sted = By / Landområde": null,
     "Institution": null,
     "Kategori": "Rejse",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -4050,6 +4418,7 @@
     "Sted = By / Landområde": "Austin, Texas",
     "Institution": "University of Texas",
     "Kategori": "Foredrag",
+    "Tooltip": "6 forelæsninger: 3101, 0202, 0702, 0902, 1402, 1602? Discussions: 0102, 0802, 1502: Glossematics and Contemporary Linguistic Theory",
     "Event": "6 forelæsninger: 3101, 0202, 0702, 0902, 1402, 1602? Discussions: 0102, 0802, 1502: Glossematics and Contemporary Linguistic Theory",
     "Personer": "Lehmann …",
     "Kilde": "K52 - 269, 276-351, 365"
@@ -4061,6 +4430,7 @@
     "Sted = By / Landområde": "New Orleans",
     "Institution": null,
     "Kategori": "Foredrag",
+    "Tooltip": "Accent, Vowel Harmony and Syllable: an Example of Linguistic Typology",
     "Event": "Accent, Vowel Harmony and Syllable: an Example of Linguistic Typology",
     "Personer": null,
     "Kilde": "K52 - 481"
@@ -4072,6 +4442,7 @@
     "Sted = By / Landområde": "Chapel Hill",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": null
@@ -4083,6 +4454,7 @@
     "Sted = By / Landområde": "Chapel Hill",
     "Institution": "The University of North Carolina",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsninger: 2102, 2302: Accent, Vowel Harmony and Syllable: an Example of Linguistic Typology",
     "Event": "Forelæsninger: 2102, 2302: Accent, Vowel Harmony and Syllable: an Example of Linguistic Typology",
     "Personer": "Lane",
     "Kilde": "K52 - 372"
@@ -4094,6 +4466,7 @@
     "Sted = By / Landområde": "Washington D.C.",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Robert Lado",
     "Kilde": "K52 - 464"
@@ -4105,6 +4478,7 @@
     "Sted = By / Landområde": "Firenze, Pisa",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": null,
     "Kilde": "K52 - 52, 56"
@@ -4116,6 +4490,7 @@
     "Sted = By / Landområde": "Firenze",
     "Institution": "Università di Firenze",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Les degrés de comparaison",
     "Event": "Forelæsning: Les degrés de comparaison",
     "Personer": null,
     "Kilde": "K52 - 56"
@@ -4127,6 +4502,7 @@
     "Sted = By / Landområde": "Firenze",
     "Institution": "Università di Firenze",
     "Kategori": "Foredrag",
+    "Tooltip": "Forelæsning: Le genre grammatical",
     "Event": "Forelæsning: Le genre grammatical",
     "Personer": null,
     "Kilde": "K52 - 56"
@@ -4138,6 +4514,7 @@
     "Sted = By / Landområde": "Firenze",
     "Institution": "Circolo linguistico fiorentino",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Syllabe, accent et harmonie ",
     "Event": "Foredrag: Syllabe, accent et harmonie ",
     "Personer": null,
     "Kilde": "K52 - 56"
@@ -4149,6 +4526,7 @@
     "Sted = By / Landområde": "Pisa",
     "Institution": null,
     "Kategori": "Del af R",
+    "Tooltip": null,
     "Event": null,
     "Personer": "Bolelli",
     "Kilde": "K52 - 56"
@@ -4160,6 +4538,7 @@
     "Sted = By / Landområde": "Pisa",
     "Institution": "l’Institut de linguistique ",
     "Kategori": "Netværk",
+    "Tooltip": "Séminaire",
     "Event": "Séminaire",
     "Personer": null,
     "Kilde": "K52 - 56"
@@ -4171,6 +4550,7 @@
     "Sted = By / Landområde": "København",
     "Institution": "Dansk selskab for oldtids- og middelalderforskning",
     "Kategori": "Foredrag",
+    "Tooltip": "Foredrag: Det etruskiske problem",
     "Event": "Foredrag: Det etruskiske problem",
     "Personer": null,
     "Kilde": "K138 - 563"
@@ -4182,6 +4562,7 @@
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
+    "Tooltip": "Hjelmslev dør",
     "Event": "Hjelmslev dør",
     "Personer": null,
     "Kilde": null
