@@ -2,6 +2,8 @@ import csv
 import json
 import datetime
 import ast
+import itertools
+import operator
 
 data = []
 
@@ -26,7 +28,7 @@ with open("Hjelmslevkronologi.csv", mode="r", encoding="utf-8-sig") as file:
         "U": "Undervisning",
         "F": "Foredrag",
         "N": "Netværk",
-        "R": "Rejser",
+        "R": "Rejse",
         "P": "Publikationer"
     }
 
@@ -94,12 +96,14 @@ with open("Hjelmslevkronologi.csv", mode="r", encoding="utf-8-sig") as file:
             data.append(dict)
 
 with open("result.txt", "r", encoding="utf-8") as result_file:
-    list = []
+    init_list = []
     for line in result_file:
         dict = ast.literal_eval(line)
-        list.append(dict)
+        init_list.append(dict)
 
-    for row in list:
+    cur_data = []
+    count = 1
+    for row in init_list:
         dict = {}
 
         if row["semester"] == "I":
@@ -109,8 +113,6 @@ with open("result.txt", "r", encoding="utf-8") as result_file:
             dict["Startdato"] = "01-09-" + str(row["year"])
             dict["Slutdato"] = "31-12-" + str(row["year"])
 
-        dict["Land"] = "Danmark"
-
         if row["place"] == "CPH":
             dict["Sted = By / Landområde"] = "København"
             dict["Institution"] = "Københavns Universitet"
@@ -118,14 +120,49 @@ with open("result.txt", "r", encoding="utf-8") as result_file:
             dict["Sted = By / Landområde"] = "Aarhus"
             dict["Institution"] = "Aarhus Universitet"
 
-        dict["Kategori"] = "Undervisning"
 
         dict["Event"] = row["description"]
 
         dict["Personer"] = None
         dict["Kilde"] = None
 
+        dict["Sorting"] = count
+        count += 1
+
+        cur_data.append(dict)
+
+    cur_data.sort(key=operator.itemgetter("Sorting"))
+
+    grouped_data = []
+
+    for key, items in itertools.groupby(cur_data, operator.itemgetter("Startdato")):
+        grouped_data.append(list(items))
+
+    for item in grouped_data:
+        dict = {}
+
+        # the number of dict in each group aka subjects, since 1 dict = 1 subject and 1 item = 1 semester
+        subjects = len(item)
+
+        dict["Startdato"] = item[0]["Startdato"]
+        dict["Slutdato"] = item[0]["Slutdato"]
+        dict["Land"] = "Danmark"
+        dict["Sted = By / Landområde"] = item[0]["Sted = By / Landområde"]
+        dict["Institution"] = item[0]["Institution"]
+        dict["Kategori"] = "Undervisning"
+
+        description = str(subjects) + " fag"
+
+        for i in range(subjects):
+            description += "\n" + item[i]["Event"]
+
+        dict["Event"] = description
+
+        dict["Personer"] = None
+        dict["Kilde"] = None
+
         data.append(dict)
+
 
 with open("hjelmslev.json", "a", encoding="utf-8") as json_file:
     json.dump(data, json_file, indent=2, ensure_ascii=False)
