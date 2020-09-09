@@ -126,7 +126,7 @@
     "Land": "Tjekkoslovakiet",
     "Sted = By / Landområde": null,
     "Institution": null,
-    "Kategori": "Rejse",
+    "Kategori": "1e",
     "Event": "Studieophold",
     "Personer": null,
     "Kilde": "K50 - 2, 1-19 "
@@ -4193,7 +4193,15 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "6 fag\rForelæsninger over forholdet mellem sprogsystem og sprogforandring, 1t ugtl, sprogstuderende af alle retninger\rGennemgang af sprogvidenskabelig propædeutik, 1.sem., 2t ugtl. (Forelæsninger og kollokvier over sprogvidenskabens historie, metoder og hovedresultater, (Bloomfield som grundbog)), særligt beregnet for studerende i de fag i hvilke kendskab til sammenlignende sprogvidenskab kræves\rVejledning i studiet af gotisk, 2t ugtl.\rVejledning i litauisk, privatissime\rForskningsøvelser i sammenlignende sprogvidenskab for viderekomne, bortfaldet pga manglende tilslutn.,\rVejledning for fagstuderende også bortfaldet",
+    "Tooltip": {
+      "1": "Forelæsninger over forholdet mellem sprogsystem og sprogforandring, 1t ugtl, sprogstuderende af alle retninger",
+      "2": "Gennemgang af sprogvidenskabelig propædeutik, 1.sem., 2t ugtl. (Forelæsninger og kollokvier over sprogvidenskabens historie, metoder og hovedresultater, (Bloomfield som grundbog)), særligt beregnet for studerende i de fag i hvilke kendskab til sammenlignende sprogvidenskab kræves",
+      "3": "Vejledning i studiet af gotisk, 2t ugtl.",
+      "4": "Vejledning i litauisk, privatissime",
+      "5": "Forskningsøvelser i sammenlignende sprogvidenskab for viderekomne, bortfaldet pga manglende tilslutn.,",
+      "6": "Vejledning for fagstuderende også bortfaldet"
+    },
+    "Event": "6 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4204,7 +4212,12 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rVidenskabelige øvelser over fonemteori for viderekomne, 2t ugtl.,\rGennemgang af sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.\rVejledning i litauisk, 2.sem., 2t ugtl.",
+    "Tooltip": {
+      "1": "Videnskabelige øvelser over fonemteori for viderekomne, 2t ugtl.,",
+      "2": "Gennemgang af sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.",
+      "3": "Vejledning i litauisk, 2.sem., 2t ugtl."
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4215,7 +4228,13 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rGennemgang af sprogvidenskabelig propædeutik, 3.sem., 2t ugtl.\rForelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 1.sem., 2t ugtl.\rGennemgang af fonematikkens almene del for viderekomne, 1.sem., 1t ugtl.\rForelæsninger over fonemteori for begyndere (sammen med H.J. Uldall. En kortere forelæsningsrække for danskstuderende på opfordring; ikke anmeldt)",
+    "Tooltip": {
+      "1": "Gennemgang af sprogvidenskabelig propædeutik, 3.sem., 2t ugtl.",
+      "2": "Forelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 1.sem., 2t ugtl.",
+      "3": "Gennemgang af fonematikkens almene del for viderekomne, 1.sem., 1t ugtl.",
+      "4": "Forelæsninger over fonemteori for begyndere (sammen med H.J. Uldall. En kortere forelæsningsrække for danskstuderende på opfordring; ikke anmeldt)"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4226,7 +4245,13 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rForelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 2.sem., samt øvelser i tilslutning hertil, 2t ugtl.\rGennemgang af fonematikkens almene del for viderekomne, 2.sem., 1t ugtl.\rBegynderkursus i sanskrit, 2t ugtl.\rForelæsninger over forholdet mellem sprog og tanke anmeldt, men ikke afholdt, motivet var transmittering gennem Statsradiofonien, men dette kunne ikke gennemføres",
+    "Tooltip": {
+      "1": "Forelæsninger over de indo-europæiske sprogs sammenlignende lyd- og formlære med særlig hensyntagen til græsk og latin, 2.sem., samt øvelser i tilslutning hertil, 2t ugtl.",
+      "2": "Gennemgang af fonematikkens almene del for viderekomne, 2.sem., 1t ugtl.",
+      "3": "Begynderkursus i sanskrit, 2t ugtl.",
+      "4": "Forelæsninger over forholdet mellem sprog og tanke anmeldt, men ikke afholdt, motivet var transmittering gennem Statsradiofonien, men dette kunne ikke gennemføres"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4237,7 +4262,10 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rKursus i sprogvidenskabelig propædeutik for sprogstuderende af alle retninger, 1.sem., 2t ugtl.",
+    "Tooltip": {
+      "1": "Kursus i sprogvidenskabelig propædeutik for sprogstuderende af alle retninger, 1.sem., 2t ugtl."
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4248,7 +4276,12 @@
     "Sted = By / Landområde": "Aarhus",
     "Institution": "Aarhus Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rKursus i sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.\rForelæsninger over sprogrester i middelhavslandene og Forasien, 1t ugtl.\rØvelser over oskisk-umbrisk i tilslutning til forelæsningerne over sprogrester i Middelhavslandene og Forasien, anmeldt men bortfaldet pga manglende tilslutning",
+    "Tooltip": {
+      "1": "Kursus i sprogvidenskabelig propædeutik, 2.sem., 2t ugtl.",
+      "2": "Forelæsninger over sprogrester i middelhavslandene og Forasien, 1t ugtl.",
+      "3": "Øvelser over oskisk-umbrisk i tilslutning til forelæsningerne over sprogrester i Middelhavslandene og Forasien, anmeldt men bortfaldet pga manglende tilslutning"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4259,7 +4292,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rIndledning til sprogvidenskaben (sprogvidenskabens metode og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 3t ugtl.\rGræsk bøjningslære anmeldt som eventuelt, men bortfaldet pga manglende tilslutning",
+    "Tooltip": {
+      "1": "Indledning til sprogvidenskaben (sprogvidenskabens metode og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 3t ugtl.",
+      "2": "Græsk bøjningslære anmeldt som eventuelt, men bortfaldet pga manglende tilslutning"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4270,7 +4307,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rIndledning til sprogvidenskaben, 2.sem., 3t ugtl.\rKollokvier med viderekomne over nyudkommen lingvistisk litteratur, 2t ugtl.",
+    "Tooltip": {
+      "1": "Indledning til sprogvidenskaben, 2.sem., 3t ugtl.",
+      "2": "Kollokvier med viderekomne over nyudkommen lingvistisk litteratur, 2t ugtl."
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4281,7 +4322,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rGennemgang af Louis Hjelmslev og H.J. Uldall: An Outline of Glossematics (tillige som afslutning af forelæsningen over indledning til sprogvidenskaben (1. (3.) sem.), 3t ugtl.\rKollokvier over udvalgte sprogvidenskabelige emner (efter nærmere aftale)",
+    "Tooltip": {
+      "1": "Gennemgang af Louis Hjelmslev og H.J. Uldall: An Outline of Glossematics (tillige som afslutning af forelæsningen over indledning til sprogvidenskaben (1. (3.) sem.), 3t ugtl.",
+      "2": "Kollokvier over udvalgte sprogvidenskabelige emner (efter nærmere aftale)"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4292,7 +4337,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rGennemgang af glossematikken, (2. (4.) semester), 3t ugtl., aflyst efter aftale med deltageren (Wett Frederiksen) pga manglende tilslutning\rForelæsninger over sprogvidenskabens historie, 3t ugtl., start med 4 deltagere, afbrudt pga mangel på tilslutning da alle udeblev inden forelæsningsrækkens afslutning \rØvelser over litauisk for viderekomne, privatissime, 1.sem, 1t ugtl.",
+    "Tooltip": {
+      "1": "Gennemgang af glossematikken, (2. (4.) semester), 3t ugtl., aflyst efter aftale med deltageren (Wett Frederiksen) pga manglende tilslutning",
+      "2": "Forelæsninger over sprogvidenskabens historie, 3t ugtl., start med 4 deltagere, afbrudt pga mangel på tilslutning da alle udeblev inden forelæsningsrækkens afslutning ",
+      "3": "Øvelser over litauisk for viderekomne, privatissime, 1.sem, 1t ugtl."
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4303,7 +4353,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rForelæsninger over almen fonetik (herunder fonemteori og experimentalfonetik; for sprogstuderende af alle retninger, særlig for begyndere), 2t ugtl (mange, også prominente deltagere)\rØvelser over litauisk for viderekomne, privatissime, 2.sem, 1t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over almen fonetik (herunder fonemteori og experimentalfonetik; for sprogstuderende af alle retninger, særlig for begyndere), 2t ugtl (mange, også prominente deltagere)",
+      "2": "Øvelser over litauisk for viderekomne, privatissime, 2.sem, 1t ugtl."
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4314,7 +4368,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rUndervisningsfrit semester: Af undervisningsministeriet fritaget for at holde forelæsninger.",
+    "Tooltip": {
+      "1": "Undervisningsfrit semester: Af undervisningsministeriet fritaget for at holde forelæsninger."
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4325,7 +4382,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 1.sem., 3t ugtl. [meget grundig disposition, kps.3, F29ff.]",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 1.sem., 3t ugtl. [meget grundig disposition, kps.3, F29ff.]"
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4336,7 +4396,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 2.sem., 3t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 2.sem., 3t ugtl."
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4347,7 +4410,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 3.sem., 3t ugtl.\rFinsk for begyndere, 1.sem, 2t ugtl. [F35, 37]\rFinsk for viderekomne, 1.sem., 1t ugtl., ikke anmeldt, men afholdt efter opfordring\rVejledning af fagstuderende efter nærmere aftale",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til latin og græsk, 3.sem., 3t ugtl.",
+      "2": "Finsk for begyndere, 1.sem, 2t ugtl. [F35, 37]",
+      "3": "Finsk for viderekomne, 1.sem., 1t ugtl., ikke anmeldt, men afholdt efter opfordring",
+      "4": "Vejledning af fagstuderende efter nærmere aftale"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4358,7 +4427,15 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "6 fag\rForelæsninger over sprogteori (principper for lexikalsk, grammatisk og fonetisk analyse) (for sprogstuderende af alle retninger), 1.sem, 2t ugtl.\rØvelser over oldgræske dialekter, 2t  ugtl\rØvelser over Finsk for begyndere, 2.sem., 2t ugtl.\rØvelser over Finsk for viderekomne, 2.sem, 1t ugtl.\rVejledning af fagstuderende efter nærmere aftale\rLedelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium",
+    "Tooltip": {
+      "1": "Forelæsninger over sprogteori (principper for lexikalsk, grammatisk og fonetisk analyse) (for sprogstuderende af alle retninger), 1.sem, 2t ugtl.",
+      "2": "Øvelser over oldgræske dialekter, 2t  ugtl",
+      "3": "Øvelser over Finsk for begyndere, 2.sem., 2t ugtl.",
+      "4": "Øvelser over Finsk for viderekomne, 2.sem, 1t ugtl.",
+      "5": "Vejledning af fagstuderende efter nærmere aftale",
+      "6": "Ledelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium"
+    },
+    "Event": "6 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4369,7 +4446,16 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "7 fag\rForelæsninger over sprogteori, 2.sem, 2t ugtl.\rFonetik, Det danske missionsselskab, i alt 18t. (med særskilt honorar)\rUngarsk for begyndere, 1.sem, 2t ugtl.\rLaboratorieøvelser over indskrifter fra oldtidens Italien, 1.sem, 2t ugtl.\rØvelser over finsk for viderekomne anmeldt som eventuelt, men bortfaldt ved den finske lektors tiltræden [F49]\rVejledning af fagstuderende efter nærmere aftale\rLedelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium",
+    "Tooltip": {
+      "1": "Forelæsninger over sprogteori, 2.sem, 2t ugtl.",
+      "2": "Fonetik, Det danske missionsselskab, i alt 18t. (med særskilt honorar)",
+      "3": "Ungarsk for begyndere, 1.sem, 2t ugtl.",
+      "4": "Laboratorieøvelser over indskrifter fra oldtidens Italien, 1.sem, 2t ugtl.",
+      "5": "Øvelser over finsk for viderekomne anmeldt som eventuelt, men bortfaldt ved den finske lektors tiltræden [F49]",
+      "6": "Vejledning af fagstuderende efter nærmere aftale",
+      "7": "Ledelse af videnskabelige undersøgelser i Statens institut for talelidendes experimentalfonetiske laboratorium"
+    },
+    "Event": "7 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4380,7 +4466,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rLaboratorieøvelser over indskrifter fra oldtidens Italien, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)\rForelæsninger over sprogteori, 3.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)\rUngarsk for begyndere, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj) (bog af Lotz)",
+    "Tooltip": {
+      "1": "Laboratorieøvelser over indskrifter fra oldtidens Italien, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)",
+      "2": "Forelæsninger over sprogteori, 3.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj)",
+      "3": "Ungarsk for begyndere, 2.sem, 2t ugtl. (sygemeldt i marts, fritaget for forelæsninger i april-maj) (bog af Lotz)"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4391,7 +4482,14 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "5 fag\rFonetik (1.halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab\rIndledning til sprogvidenskaben (sprogvidenskabens metoder og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 2t ugtl.\rForelæsninger over sprogteori, 4.sem, 2t. ugtl. (bl.a. Eli)\rUngarsk, 3.sem, 1 à 2t ugtl.\rElementær fonetik (for begyndende sprogstuderende, 1.sem., 1t ugtl.",
+    "Tooltip": {
+      "1": "Fonetik (1.halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab",
+      "2": "Indledning til sprogvidenskaben (sprogvidenskabens metoder og hovedresultater, for sprogstuderende af alle retninger), 1.sem, 2t ugtl.",
+      "3": "Forelæsninger over sprogteori, 4.sem, 2t. ugtl. (bl.a. Eli)",
+      "4": "Ungarsk, 3.sem, 1 à 2t ugtl.",
+      "5": "Elementær fonetik (for begyndende sprogstuderende, 1.sem., 1t ugtl."
+    },
+    "Event": "5 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4402,7 +4500,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rFonetik (2. halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab\rIndledning til sprogvidenskaben, 2.sem, 2t ugtl\rLitauisk, 1t ugtl.",
+    "Tooltip": {
+      "1": "Fonetik (2. halvdel), 1t ugtl., Missionsskolen, Det danske bibelselskab",
+      "2": "Indledning til sprogvidenskaben, 2.sem, 2t ugtl",
+      "3": "Litauisk, 1t ugtl."
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4413,7 +4516,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rElementær fonetik, 2.sem., 2t ugtl.",
+    "Tooltip": {
+      "1": "Elementær fonetik, 2.sem., 2t ugtl."
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4424,7 +4530,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rUngarsk, 4.sem., 1t ugtl. (afbrudt pga sygdomsforfald)",
+    "Tooltip": {
+      "1": "Ungarsk, 4.sem., 1t ugtl. (afbrudt pga sygdomsforfald)"
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4435,7 +4544,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rIndledning til sprogvidenskaben, 3.sem., 2t. ugtl.\rLitauisk, 2.sem, 2t ugtl.\rVejledning for (en) fagstuderende (Ib Thomhav, smlg.spr.), øvelser over ungarsk, 2t ugtl.\rFonetik extraordinært fortsat), 1t ugtl., Missionsskolen, Det danske bibelselskab",
+    "Tooltip": {
+      "1": "Indledning til sprogvidenskaben, 3.sem., 2t. ugtl.",
+      "2": "Litauisk, 2.sem, 2t ugtl.",
+      "3": "Vejledning for (en) fagstuderende (Ib Thomhav, smlg.spr.), øvelser over ungarsk, 2t ugtl.",
+      "4": "Fonetik extraordinært fortsat), 1t ugtl., Missionsskolen, Det danske bibelselskab"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4446,7 +4561,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rIndledning til sprogvidenskaben, 4.sem., 2t. ugtl.\rVejledning for (en) fagstuderende, øvelser over ungarsk, 1½t ugtl.\rLitauisk, 3.sem, 3t ugtl.",
+    "Tooltip": {
+      "1": "Indledning til sprogvidenskaben, 4.sem., 2t. ugtl.",
+      "2": "Vejledning for (en) fagstuderende, øvelser over ungarsk, 1½t ugtl.",
+      "3": "Litauisk, 3.sem, 3t ugtl."
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4457,7 +4577,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rIndledning til sprogvidenskaben, 5.sem. (Sprogtilstandslærens historie, 1.sem.), 2t ugtl. (grundig disp.)\rLitauisk, 4.sem, 3t ugtl.",
+    "Tooltip": {
+      "1": "Indledning til sprogvidenskaben, 5.sem. (Sprogtilstandslærens historie, 1.sem.), 2t ugtl. (grundig disp.)",
+      "2": "Litauisk, 4.sem, 3t ugtl."
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4468,7 +4592,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 1.sem., 3t ugtl.\rForelæsninger over sprogtilstandslærens historie, 2.sem., 1t ugtl.\rLitauisk, 5.sem, 3t ugtl.\rFonetik, 2t ugtl., Menighedshøjskolen 'Marthabo'",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 1.sem., 3t ugtl.",
+      "2": "Forelæsninger over sprogtilstandslærens historie, 2.sem., 1t ugtl.",
+      "3": "Litauisk, 5.sem, 3t ugtl.",
+      "4": "Fonetik, 2t ugtl., Menighedshøjskolen 'Marthabo'"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4479,7 +4609,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 2.sem., 3t ugtl.\rFonetik, 2t ugtl., Menighedshøjskolen 'Marthabo'",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 2.sem., 3t ugtl.",
+      "2": "Fonetik, 2t ugtl., Menighedshøjskolen 'Marthabo'"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4490,7 +4624,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 3.sem., 3t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 3.sem., 3t ugtl."
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4501,7 +4638,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rForelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 4.sem., 3t ugtl.\rVejledning i sprogteori, 1.sem., 1t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over sammenlignende indo-europæisk sprogvidenskab med særligt hensyn til græsk og latin, 4.sem., 3t ugtl.",
+      "2": "Vejledning i sprogteori, 1.sem., 1t ugtl."
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4512,7 +4653,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rForelæsninger over den genetiske sprogvidenskabs resultater og historie, 1.sem., 2t ugtl.\rGennemgang af en række nyere værker vedrørende forholdet mellem sprog, tanke og virkelighed, 1t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 1.sem., 2t ugtl.",
+      "2": "Gennemgang af en række nyere værker vedrørende forholdet mellem sprog, tanke og virkelighed, 1t ugtl."
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4523,7 +4668,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rForelæsninger over den genetiske sprogvidenskabs resultater og historie, 2.sem., 1 à 2t ugtl.\rUngarsk for begyndere\rForelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 1t ugtl.\rSprogteoretiske kollokvier, 2 t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 2.sem., 1 à 2t ugtl.",
+      "2": "Ungarsk for begyndere",
+      "3": "Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 1t ugtl.",
+      "4": "Sprogteoretiske kollokvier, 2 t ugtl."
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4534,7 +4685,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rForelæsninger over den genetiske sprogvidenskabs resultater og historie, 3.sem., 1 à 2t ugtl.\rUngarsk for begyndere, 2.sem, 2t ugtl.\rForelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 2.sem., 1t ugtl.\rSprogteoretiske kollokvier, 2 t ugtl.",
+    "Tooltip": {
+      "1": "Forelæsninger over den genetiske sprogvidenskabs resultater og historie, 3.sem., 1 à 2t ugtl.",
+      "2": "Ungarsk for begyndere, 2.sem, 2t ugtl.",
+      "3": "Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 2.sem., 1t ugtl.",
+      "4": "Sprogteoretiske kollokvier, 2 t ugtl."
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4545,7 +4702,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rFonetik, 2t ugtl., Missionsskolen Scherfigsvej 8\rForelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 3.sem., 1t ugtl.\rUngarsk for begyndere, 3.sem, 2t ugtl.",
+    "Tooltip": {
+      "1": "Fonetik, 2t ugtl., Missionsskolen Scherfigsvej 8",
+      "2": "Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 3.sem., 1t ugtl.",
+      "3": "Ungarsk for begyndere, 3.sem, 2t ugtl."
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4556,7 +4718,15 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "6 fag\rForelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 4.sem.\rSprogteoretiske kollokvier\rUngarsk for begyndere, 4.sem.\rHovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat)\rAlbanesisk\rFonetik for missionærelever",
+    "Tooltip": {
+      "1": "Forelæsninger over tekstanalysens og sprogbeskrivelsens teknik, 4.sem.",
+      "2": "Sprogteoretiske kollokvier",
+      "3": "Ungarsk for begyndere, 4.sem.",
+      "4": "Hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat)",
+      "5": "Albanesisk",
+      "6": "Fonetik for missionærelever"
+    },
+    "Event": "6 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4567,7 +4737,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rAlbanesisk\rForelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)\rGennemgang af tekstprøver på østlige finsk-ugriske sprog (en studerende: Aage Ravn Christensen)\rSprogteoretiske kollokvier",
+    "Tooltip": {
+      "1": "Albanesisk",
+      "2": "Forelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)",
+      "3": "Gennemgang af tekstprøver på østlige finsk-ugriske sprog (en studerende: Aage Ravn Christensen)",
+      "4": "Sprogteoretiske kollokvier"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4578,7 +4754,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rSprogteoretiske kollokvier\rAlbanesisk\rForelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)\rGennemgang af tekstprøver på østlige finsk-ugriske sprog (fortsættelse)",
+    "Tooltip": {
+      "1": "Sprogteoretiske kollokvier",
+      "2": "Albanesisk",
+      "3": "Forelæsninger over hovedtrækkene i den uralske sprogsammenligning med særligt henblik på forholdet mellem finsk og ungarsk (fortsat) (en studerende: Aage Ravn Christensen)",
+      "4": "Gennemgang af tekstprøver på østlige finsk-ugriske sprog (fortsættelse)"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4589,7 +4771,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rLingvistik for begyndere\rØvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), 2t ugtl.\rAlbanesisk (fortsat)",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere",
+      "2": "Øvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), 2t ugtl.",
+      "3": "Albanesisk (fortsat)"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4600,7 +4787,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rLingvistik for begyndere (fortsat)\rØvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), (fortsat)\rAlbanesisk (fortsat)",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere (fortsat)",
+      "2": "Øvelser i sprogbeskrivelsens teknik (sammen med H.J. Uldall), (fortsat)",
+      "3": "Albanesisk (fortsat)"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4611,7 +4803,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rLingvistik for begyndere (fortsat)\rLitauisk",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere (fortsat)",
+      "2": "Litauisk"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4622,7 +4818,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rLingvistik for begyndere (fortsat)\rLitauisk (fortsat)\rVejledning for (en) studerende i sammenlignende sprogvidenskab (Niels Ege)",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere (fortsat)",
+      "2": "Litauisk (fortsat)",
+      "3": "Vejledning for (en) studerende i sammenlignende sprogvidenskab (Niels Ege)"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4633,7 +4834,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rKollokvier over sprogteori\rLitauisk (fortsat) (Brobys kone Aina, Mey, Surland, Gunnar Svane)",
+    "Tooltip": {
+      "1": "Kollokvier over sprogteori",
+      "2": "Litauisk (fortsat) (Brobys kone Aina, Mey, Surland, Gunnar Svane)"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4644,7 +4849,11 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "2 fag\rLitauisk (fortsat) (Brobys kone, Mey, Surland, Gunnar Svane)\rSprogteoretiske kollokvier",
+    "Tooltip": {
+      "1": "Litauisk (fortsat) (Brobys kone, Mey, Surland, Gunnar Svane)",
+      "2": "Sprogteoretiske kollokvier"
+    },
+    "Event": "2 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4655,7 +4864,15 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "6 fag\rLitauisk for viderekomne\rGennemgang af lettiske tekstprøver\rSprogteoretiske kollokvier\rVejledning for konferensstuderende i sammenlignende sprogvidenskab og andre specielt interesserede (privatissime), bl.a. Flydal\rLitauisk for begyndere\rAlbansk",
+    "Tooltip": {
+      "1": "Litauisk for viderekomne",
+      "2": "Gennemgang af lettiske tekstprøver",
+      "3": "Sprogteoretiske kollokvier",
+      "4": "Vejledning for konferensstuderende i sammenlignende sprogvidenskab og andre specielt interesserede (privatissime), bl.a. Flydal",
+      "5": "Litauisk for begyndere",
+      "6": "Albansk"
+    },
+    "Event": "6 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4666,7 +4883,14 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "5 fag\rMorfemkategorier (Skydsgaard, Erik Hansen, Westh Neuhard m.fl.)\rDe baltiske sprogs opbygning\rVejledning for viderekomne i læsning af litauisk\rLitauisk for begyndere (fortsat)\rVejledning (privatissime) for studerende til magisterkonferens i sammenlignende sprogvidenskab og andre specielt interesserede, (bl.a Mey)",
+    "Tooltip": {
+      "1": "Morfemkategorier (Skydsgaard, Erik Hansen, Westh Neuhard m.fl.)",
+      "2": "De baltiske sprogs opbygning",
+      "3": "Vejledning for viderekomne i læsning af litauisk",
+      "4": "Litauisk for begyndere (fortsat)",
+      "5": "Vejledning (privatissime) for studerende til magisterkonferens i sammenlignende sprogvidenskab og andre specielt interesserede, (bl.a Mey)"
+    },
+    "Event": "5 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4677,7 +4901,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rForelæsningsfrihed",
+    "Tooltip": {
+      "1": "Forelæsningsfrihed"
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4688,7 +4915,10 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "1 fag\rØvelser over litauisk",
+    "Tooltip": {
+      "1": "Øvelser over litauisk"
+    },
+    "Event": "1 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4699,7 +4929,12 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "3 fag\rLingvistik for begyndere\rKollokvier over udvalgte sprogteoretiske emner\rGennemgang af baltiske (prøjsiske) texter",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere",
+      "2": "Kollokvier over udvalgte sprogteoretiske emner",
+      "3": "Gennemgang af baltiske (prøjsiske) texter"
+    },
+    "Event": "3 fag",
     "Personer": null,
     "Kilde": null
   },
@@ -4710,7 +4945,13 @@
     "Sted = By / Landområde": "København",
     "Institution": "Københavns Universitet",
     "Kategori": "Undervisning",
-    "Event": "4 fag\rLingvistik for begyndere\rKollokvier over udvalgte sprogteoretiske emner I: udtryksanalyse\rKollokvier over udvalgte sprogteoretiske emner: kasuskategorien/r\rGennemgang af baltiske tekster (lettisk)",
+    "Tooltip": {
+      "1": "Lingvistik for begyndere",
+      "2": "Kollokvier over udvalgte sprogteoretiske emner I: udtryksanalyse",
+      "3": "Kollokvier over udvalgte sprogteoretiske emner: kasuskategorien/r",
+      "4": "Gennemgang af baltiske tekster (lettisk)"
+    },
+    "Event": "4 fag",
     "Personer": null,
     "Kilde": null
   }

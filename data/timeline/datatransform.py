@@ -152,10 +152,12 @@ with open("result.txt", "r", encoding="utf-8") as result_file:
         dict["Kategori"] = "Undervisning"
 
         description = str(subjects) + " fag"
+        desc_dict = {}
 
         for i in range(subjects):
-            description += "\r" + item[i]["Event"]
+            desc_dict[i + 1] = item[i]["Event"]
 
+        dict["Tooltip"] = desc_dict
         dict["Event"] = description
 
         dict["Personer"] = None
