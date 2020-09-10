@@ -53,7 +53,7 @@ We use the sorting field in the scales to sort the yscale from min to max. It is
 `"datum.Kategori === 'Rejse' ? 0 : datum.Kategori === 'Foredrag' : ? 1 : datum.Kategori === 'Liv' ? 2 : 3 "`
 
 ##### The initValues
-We have only two entries in this dataset. It is the min and max values of the xscale. Be sure to format it like this: YYYY-MM-DD. If formatted otherwise, Vega might alter the values for the next time, someone loads the spec causing Vega not to recognize the values as dates. 
+We only have two entries in this dataset. It is the min and max values of the xscale. Be sure to format it like this: YYYY-MM-DD. If formatted otherwise, Vega might alter the values the next time someone loads the spec causing Vega not to recognize the values as dates. 
 Here we also need a transform:
 ```json
  "transform": [
@@ -99,8 +99,8 @@ The legend scale uses a color scheme for range called `category20`. It should be
 
 ### Axes
 
-We use two axes, one for the xscale and one for the yscale. Here we can change the look of the labels.
-This piece of code will color the label text on the yscale based on the legend's color:
+We use two axes, one for the xscale and one for the yscale. Here we can change the look and formatting of the labels.
+This piece of code color the label text on the yscale based on the legend's color:
 ```json
 "encode": {
         "labels": {
@@ -120,4 +120,53 @@ We only have one legend. It uses the color scale:
 "stroke": "color",
 "symbolType": "stroke"
 ```
-The symbol type for the legend is stroke and that stroke is set to be the scale named `color`. We encode both the symbol and the labels in order to make the non-clicked symbol and label texts transperant.
+The symbol type for the legend is stroke and that stroke is set to be the scale named `color`. We encode both the symbol and the labels in order to make them interactive. We do that with a test:
+```json
+"opacity": [
+              {
+                "test": "!length(data('selected')) || indata('selected', 'value', datum.value)",
+                "value": 1
+              },
+              {
+                "value": 0.25
+              }
+            ]
+```
+We set the opacity to 1 if nothing is selected or for the selected values. All else will be set to 0.25, which makes the text and symbols transparent.
+
+
+### Marks
+
+We have four marks. Marks are the symbols and text inside the scales. Beside the helper mark `path`, they all use tooltip and set the opacity based on the same logic as the legend. Be aware to change the datum value for the tooltip and opacity if the dataset changes.
+All the marks uses offset to help place the mark nicely. These might need to be adjusted if the dataset changes.
+
+##### Path
+This mark is a helper mark used with the `path` signal.
+```json
+"path": { "signal": "null" }
+```
+We can set the mark to be visible by setting the signal value to `path`. It helps us determine where the clipping lines of the text mark go.
+
+##### Text
+The text mark is the event text that surpasses the yscale. Because of this, its clipping needs to be sat to a SVG path for it to be hid when panning:
+```json
+"clip": { "path": "M0 -50 H 800 V 200 H0" }
+```
+The SVG path will propably need to be changed if the dataset change. Here we can use the `path` mark and signal to help us determine where the line goes. 
+Be aware that the text mark uses four fields: one for the yscale, one for the xscale, one for the text itself and one for the tooltip text. These would need to be changed in case of a dataset change.
+The text also has a limit for how many letters to show. It it also possible to adjust the color, font, size and so on if needed.
+
+##### Symbol
+This mark makes a point on every entry in the dataset. It uses four fields: one for the yscale, one for the xscale, one for the fill color and one for the tooltip text.
+```json
+"clip": true,
+"zindex": 80
+```
+The clipping is set to true in order for the mark to disappear when panning, and the zindex needs to be set higher than the `rect` mark's zindex in order for it to be in the foreground.
+
+##### Rect
+This mark is the rectangle and shows time spent. It has five fields: one for the yscale, two for the xscale to denotate start and end time, one for the fill color and one for the tooltip text.
+The clipping is set to true in order for the mark to disappear when panning.
+
+### Config
+Lastly we have a config setting. This can be used to set common configurations for fx all marks or axes.
