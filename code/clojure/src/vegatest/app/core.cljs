@@ -1,11 +1,10 @@
 (ns vegatest.app.core
   (:require [reagent.dom :as d]
             [reagent.core :as r]
-            [oz.core :as oz]
-            [reagent.ratom :as ratom]))
+            [oz.core :as oz]))
 
 (defonce state
-  (ratom/atom 0))
+  (r/atom 0))
 
 
 (defn on-click-handler
@@ -21,7 +20,7 @@
 
 
 (def app-state
-  (ratom/atom
+  (r/atom
     {:msg "Hello from app-state"
      :items [{:display "Item 1"}
              {:display "Item 2"}
@@ -40,16 +39,16 @@
        (:display item)]])])
 
 
-(def timeline (oz/load "https://raw.githubusercontent.com/SofieVonge/infrastrukturalisme/master/data/timeline/timeline.vg.json"))
-
+(def timeline-url
+  "https://raw.githubusercontent.com/SofieVonge/infrastrukturalisme/master/data/timeline/timeline.vg.json")
 
 (defn app []
   [:<>
    [:pre @state]
    [:p "Hej verden"]
    [items-list (:items @app-state) (:active-item @app-state)]
-   [:h1  (:msg @app-state)]
-   [:oz.core/vega timeline]
+   [:h1 (:msg @app-state)]
+   [oz/vega timeline-url {:mode "vega"}]
    [komponent]])
 
 (js/setTimeout
