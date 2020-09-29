@@ -42,13 +42,29 @@
 (def timeline-url
   "https://raw.githubusercontent.com/SofieVonge/infrastrukturalisme/master/data/timeline/timeline.vg.json")
 
+
+(defn alter-height [v]
+  [{:op "replace" :path "/height" :value v}])
+
+(defonce height
+         (r/atom 200))
+
+(defn form []
+  [:<>
+   [:input#hjd {:placeholder 200}]
+   [:button#knap {:on-click (fn [e] (reset! height (.-value (js/document.getElementById "hjd"))))} "Change"]])
+
+
+
+
 (defn app []
   [:<>
    [:pre @state]
    [:p "Hej verden"]
    [items-list (:items @app-state) (:active-item @app-state)]
    [:h1 (:msg @app-state)]
-   [oz/vega timeline-url {:mode "vega"}]
+   [form]
+   [oz/vega timeline-url {:mode "vega" :patch (alter-height @height)}]
    [komponent]])
 
 (js/setTimeout
