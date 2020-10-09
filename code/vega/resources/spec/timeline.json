@@ -180,6 +180,7 @@
       "name": "yscale",
       "type": "band",
       "range": "height",
+      "padding": 1,
       "domain": {
         "data": "hjelmslev",
         "field": "Kategori",
@@ -302,12 +303,12 @@
           "x": {
             "scale": "xscale",
             "field": "Startdato",
-            "offset": 5.5
+            "offset": 5
           },
           "y": {
             "field": "Kategori",
             "scale": "yscale",
-            "offset": 3
+            "offset": -4
           },
           "angle": {
             "value": -60
@@ -351,8 +352,7 @@
           },
           "y": {
             "scale": "yscale",
-            "field": "Kategori",
-            "offset": 6
+            "field": "Kategori"
           },
           "fill": {
             "scale": "color",
@@ -388,7 +388,7 @@
           "y": {
             "scale": "yscale",
             "field": "Kategori",
-            "offset": 4
+            "offset": -2
           },
           "height": {
             "value": 4
