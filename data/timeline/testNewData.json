@@ -2,11 +2,37 @@
   {
     "Startdato": "03-10-1899",
     "Slutdato": "04-10-1899",
+    "Land": "Danmark",
     "Sted = By / Landområde": "København",
     "Institution": null,
     "Kategori": "Liv",
     "Tooltip": "Fødsel",
+    "Event": "Fødsel",
     "Personer": null,
     "Kilde": null
+  },
+  {
+    "Startdato": "04-10-1914",
+    "Slutdato": "05-10-1914",
+    "Land": "Danmark",
+    "Sted = By / Landområde": "København",
+    "Institution": "Hellerup Kirke",
+    "Kategori": "Liv",
+    "Tooltip": "Konfirmation",
+    "Event": "Konfirmation",
+    "Personer": null,
+    "Kilde": "K12 - 108"
+  },
+  {
+    "Startdato": "10-07-1917",
+    "Slutdato": "11-07-1917",
+    "Land": "Danmark",
+    "Sted = By / Landområde": "København",
+    "Institution": "Hellerup Gymnasium",
+    "Kategori": "Liv",
+    "Tooltip": "Studentereksamen, nysproglig-linje",
+    "Event": "Studentereksamen, nysproglig-linje",
+    "Personer": null,
+    "Kilde": "K12 - 119"
   }
 ]
