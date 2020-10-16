@@ -153,8 +153,9 @@ The text mark is the event text that surpasses the yscale. Because of this, its 
 "clip": { "path": "M0 -50 H 800 V 200 H0" }
 ```
 The SVG path will maybe need to be changed if the dataset changes. Here we can use the `path` mark and signal to help us determine where the line goes. 
-Be aware that the text mark uses four fields: one for the yscale, one for the xscale, one for the text itself and one for the tooltip text. These would need to be changed in case of a dataset change.
-The text also has a limit for how many letters to show. It it also possible to adjust the color, font, size and so on if needed.
+Be aware that the text mark uses four fields: one for the yscale, one for the xscale, one for the text itself and one for the tooltip text. These would need to be changed in case of a dataset change.  
+The text also has a limit for how many letters to show. It it also possible to adjust the color, font, size and so on if needed.  
+Be aware that the tooltip for this mark for the category "Rejse" does not extend the text like the tooltip does for other categories! It might likely be possible to correct in a test in the tooltip.
 
 ##### Symbol
 This mark makes a filled circle on every entry in the dataset. It uses four fields: one for the yscale, one for the xscale, one for the fill color and one for the tooltip text.
