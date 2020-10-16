@@ -139,7 +139,7 @@
     "Institution": null,
     "Kategori": "Rejse",
     "Tooltip": "Studieophold",
-    "Event": "Studieophold",
+    "Event": "Tjekkoslovakiet",
     "Personer": null,
     "Kilde": "K50 - 2, 1-19 "
   },
@@ -535,7 +535,7 @@
     "Institution": null,
     "Kategori": "Rejse",
     "Tooltip": "Rejse",
-    "Event": "Rejse",
+    "Event": "England, Wales, Irland",
     "Personer": null,
     "Kilde": "K50 - 827ff, rejseplan 863-64"
   },
@@ -2009,7 +2009,7 @@
     "Institution": null,
     "Kategori": "Rejse",
     "Tooltip": "Ankomst",
-    "Event": "Ankomst",
+    "Event": "Sverige",
     "Personer": "(modtages af Lombard",
     "Kilde": "K51 - 40"
   },
@@ -2081,7 +2081,7 @@
     "Institution": null,
     "Kategori": "Rejse",
     "Tooltip": "Videnskabelige forhandlinger",
-    "Event": "Videnskabelige forhandlinger",
+    "Event": "Sverige + Finland",
     "Personer": null,
     "Kilde": "K68 - 227, 225"
   },
@@ -2715,7 +2715,7 @@
     "Institution": null,
     "Kategori": "Rejse",
     "Tooltip": "Rundtur",
-    "Event": "Rundtur",
+    "Event": "USA",
     "Personer": null,
     "Kilde": null
   },

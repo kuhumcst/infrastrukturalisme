@@ -83,9 +83,18 @@ with open("Hjelmslevkronologi.csv", mode="r", encoding="utf-8-sig") as file:
         if row["Event / Begivenhed"] and row["Event-beskrivelse"]:
             dict["Tooltip"] = row["Event / Begivenhed"] + ": " + row["Event-beskrivelse"]
             dict["Event"] = row["Event / Begivenhed"] + ": " + row["Event-beskrivelse"]
+
+            if dict["Kategori"] == "Rejse":
+                dict["Tooltip"] = row["Event / Begivenhed"] + ": " + row["Event-beskrivelse"]
+                dict["Event"] = row["Land"]
+
         elif row["Event / Begivenhed"] or row["Event-beskrivelse"]:
             dict["Tooltip"] = row["Event / Begivenhed"] + row["Event-beskrivelse"]
             dict["Event"] = row["Event / Begivenhed"] + row["Event-beskrivelse"]
+
+            if dict["Kategori"] == "Rejse":
+                dict["Tooltip"] = row["Event / Begivenhed"] + row["Event-beskrivelse"]
+                dict["Event"] = row["Land"]
         else:
             dict["Tooltip"] = None
             dict["Event"] = None
