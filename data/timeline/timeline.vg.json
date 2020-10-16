@@ -8,13 +8,10 @@
   "data": [
     {
       "name": "hjelmslev",
-      "url": "https://raw.githubusercontent.com/SofieVonge/infrastrukturalisme/master/data/timeline/hjelmslev.json",
+      "url": "https://raw.githubusercontent.com/kuhumcst/infrastrukturalisme/master/data/timeline/hjelmslev.json",
       "format": {
         "type": "json",
-        "parse": {
-          "Startdato": "date:'%d-%m-%Y'",
-          "Slutdato": "date:'%d-%m-%Y'"
-        }
+        "parse": {"Startdato": "date:'%d-%m-%Y'", "Slutdato": "date:'%d-%m-%Y'"}
       },
       "transform": [
         {
@@ -26,64 +23,27 @@
     },
     {
       "name": "initValues",
-      "format": {
-        "type": "json",
-        "parse": {
-          "initRange": "date"
-        }
-      },
-      "values": [
-        {
-          "initRange": -1262304000000
-        },
-        {
-          "initRange": -1136073600000
-        }
-      ],
-      "transform": [
-        {
-          "type": "extent",
-          "field": "initRange",
-          "signal": "xext"
-        }
-      ]
+      "format": {"type": "json", "parse": {"initRange": "date"}},
+      "values": [{"initRange": -1262304000000}, {"initRange": -1136073600000}],
+      "transform": [{"type": "extent", "field": "initRange", "signal": "xext"}]
     },
     {
       "name": "selected",
       "on": [
-        {
-          "trigger": "clear",
-          "remove": true
-        },
-        {
-          "trigger": "!shift",
-          "remove": true
-        },
-        {
-          "trigger": "!shift && clicked",
-          "insert": "clicked"
-        },
-        {
-          "trigger": "shift && clicked",
-          "toggle": "clicked"
-        }
+        {"trigger": "clear", "remove": true},
+        {"trigger": "!shift", "remove": true},
+        {"trigger": "!shift && clicked", "insert": "clicked"},
+        {"trigger": "shift && clicked", "toggle": "clicked"}
       ]
     }
   ],
   "signals": [
-    {
-      "name": "path",
-      "value": "M0 -50 H 800 V 200 H0"
-    },
+    {"name": "path", "value": "M0 -50 H 800 V 200 H0"},
     {
       "name": "clear",
       "value": true,
       "on": [
-        {
-          "events": "dblclick[!event.item]",
-          "update": "true",
-          "force": true
-        }
+        {"events": "dblclick[!event.item]", "update": "true", "force": true}
       ]
     },
     {
@@ -111,29 +71,16 @@
     {
       "name": "down",
       "value": null,
-      "on": [
-        {
-          "events": "mousedown",
-          "update": "xy()"
-        }
-      ]
+      "on": [{"events": "mousedown", "update": "xy()"}]
     },
     {
       "name": "xcur",
       "value": null,
-      "on": [
-        {
-          "events": "mousedown",
-          "update": "slice(xdom)"
-        }
-      ]
+      "on": [{"events": "mousedown", "update": "slice(xdom)"}]
     },
     {
       "name": "delta",
-      "value": [
-        0,
-        0
-      ],
+      "value": [0, 0],
       "on": [
         {
           "events": [
@@ -143,14 +90,8 @@
               "filter": "!event.shiftKey",
               "consume": true,
               "between": [
-                {
-                  "type": "mousedown",
-                  "filter": "!event.shiftKey"
-                },
-                {
-                  "source": "window",
-                  "type": "mouseup"
-                }
+                {"type": "mousedown", "filter": "!event.shiftKey"},
+                {"source": "window", "type": "mouseup"}
               ]
             }
           ],
@@ -162,14 +103,9 @@
       "name": "xdom",
       "update": "slice(xext)",
       "on": [
+        {"events": "dblclick", "update": "slice(xext)"},
         {
-          "events": "dblclick",
-          "update": "slice(xext)"
-        },
-        {
-          "events": {
-            "signal": "delta"
-          },
+          "events": {"signal": "delta"},
           "update": "[xcur[0] + span(xcur) * delta[0] / width, xcur[1] + span(xcur) * delta[0] / width]"
         }
       ]
@@ -180,34 +116,25 @@
       "name": "yscale",
       "type": "band",
       "range": "height",
+      "padding": 1,
       "domain": {
         "data": "hjelmslev",
         "field": "Kategori",
-        "sort": {
-          "op": "min",
-          "field": "sorting"
-        }
+        "sort": {"op": "min", "field": "sorting"}
       }
     },
     {
       "name": "xscale",
       "type": "time",
       "padding": 0.5,
-      "domain": {
-        "signal": "xdom"
-      },
+      "domain": {"signal": "xdom"},
       "range": "width"
     },
     {
       "name": "color",
       "type": "ordinal",
-      "range": {
-        "scheme": "category20"
-      },
-      "domain": {
-        "data": "hjelmslev",
-        "field": "Kategori"
-      }
+      "range": {"scheme": "category20"},
+      "domain": {"data": "hjelmslev", "field": "Kategori"}
     }
   ],
   "axes": [
@@ -223,13 +150,7 @@
       "scale": "yscale",
       "grid": true,
       "encode": {
-        "labels": {
-          "enter": {
-            "fill": {
-              "signal": "scale('color', datum.value)"
-            }
-          }
-        }
+        "labels": {"enter": {"fill": {"signal": "scale('color', datum.value)"}}}
       }
     }
   ],
@@ -250,9 +171,7 @@
                 "test": "!length(data('selected')) || indata('selected', 'value', datum.value)",
                 "value": 1
               },
-              {
-                "value": 0.25
-              }
+              {"value": 0.25}
             ]
           }
         },
@@ -265,9 +184,7 @@
                 "test": "!length(data('selected')) || indata('selected', 'value', datum.value)",
                 "value": 1
               },
-              {
-                "value": 0.25
-              }
+              {"value": 0.25}
             ]
           }
         }
@@ -278,46 +195,21 @@
     {
       "type": "path",
       "encode": {
-        "update": {
-          "fill": {
-            "value": "purple"
-          },
-          "path": {
-            "signal": "null"
-          }
-        }
+        "update": {"fill": {"value": "purple"}, "path": {"signal": "null"}}
       }
     },
     {
       "type": "text",
-      "from": {
-        "data": "hjelmslev"
-      },
+      "from": {"data": "hjelmslev"},
       "zindex": 99,
-      "clip": {
-        "path": "M0 -50 H 800 V 200 H0"
-      },
+      "clip": {"path": "M0 -50 H 800 V 200 H0"},
       "encode": {
         "update": {
-          "x": {
-            "scale": "xscale",
-            "field": "Startdato",
-            "offset": 5.5
-          },
-          "y": {
-            "field": "Kategori",
-            "scale": "yscale",
-            "offset": 3
-          },
-          "angle": {
-            "value": -60
-          },
-          "text": {
-            "field": "Event"
-          },
-          "limit": {
-            "value": 50
-          },
+          "x": {"scale": "xscale", "field": "Startdato", "offset": 5},
+          "y": {"field": "Kategori", "scale": "yscale", "offset": -4},
+          "angle": {"value": -60},
+          "text": {"field": "Event"},
+          "limit": {"value": 50},
           "tooltip": [
             {
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
@@ -329,39 +221,25 @@
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
               "value": 1
             },
-            {
-              "value": 0
-            }
+            {"value": 0}
           ]
         }
       }
     },
     {
       "type": "symbol",
-      "from": {
-        "data": "hjelmslev"
-      },
+      "from": {"data": "hjelmslev"},
       "clip": true,
       "zindex": 80,
       "encode": {
         "update": {
-          "x": {
-            "scale": "xscale",
-            "field": "Startdato"
-          },
-          "y": {
-            "scale": "yscale",
-            "field": "Kategori",
-            "offset": 6
-          },
-          "fill": {
-            "scale": "color",
-            "field": "Kategori"
-          },
+          "x": {"scale": "xscale", "field": "Startdato"},
+          "y": {"scale": "yscale", "field": "Kategori"},
+          "fill": {"scale": "color", "field": "Kategori"},
           "tooltip": [
             {
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
-              "signal": "'Land: ' + datum.Land"
+              "signal": "datum.Tooltip"
             }
           ],
           "opacity": [
@@ -369,48 +247,29 @@
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
               "value": 1
             },
-            {
-              "value": 0
-            }
+            {"value": 0}
           ]
         }
       }
     },
     {
       "type": "rect",
-      "from": {
-        "data": "hjelmslev"
-      },
+      "from": {"data": "hjelmslev"},
       "zindex": 1,
       "clip": true,
       "encode": {
         "enter": {
-          "y": {
-            "scale": "yscale",
-            "field": "Kategori",
-            "offset": 4
-          },
-          "height": {
-            "value": 4
-          },
-          "fill": {
-            "scale": "color",
-            "field": "Kategori"
-          }
+          "y": {"scale": "yscale", "field": "Kategori", "offset": -2},
+          "height": {"value": 4},
+          "fill": {"scale": "color", "field": "Kategori"}
         },
         "update": {
-          "x": {
-            "scale": "xscale",
-            "field": "Startdato"
-          },
-          "x2": {
-            "scale": "xscale",
-            "field": "Slutdato"
-          },
+          "x": {"scale": "xscale", "field": "Startdato"},
+          "x2": {"scale": "xscale", "field": "Slutdato"},
           "tooltip": [
             {
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
-              "signal": "'Land: ' + datum.Land"
+              "signal": "datum.Tooltip"
             }
           ],
           "opacity": [
@@ -418,9 +277,7 @@
               "test": "(!length(data('selected')) || indata('selected', 'value', datum.Kategori))",
               "value": 1
             },
-            {
-              "value": 0
-            }
+            {"value": 0}
           ]
         }
       }
