@@ -1,0 +1,9 @@
+{:deps   true
+
+ :builds {:app {:target     :browser
+                :output-dir "resources/public/js"
+                :asset-path "/js"
+                :compiler-options {:output-feature-set :es6}
+                :modules    {:main {:init-fn vega.app.core/init}}
+                :devtools   {:http-root "resources/public"
+                             :http-port 3000}}}}

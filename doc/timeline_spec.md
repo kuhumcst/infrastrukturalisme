@@ -138,7 +138,7 @@ We set the opacity to 1 if nothing is selected or for the selected values. All e
 ### Marks
 
 We have four marks. Marks are the symbols and text inside the scales. Beside the helper mark `path`, they all use tooltip and set the opacity based on the same logic as the legend. Be aware to change the datum value for the tooltip and opacity if the dataset changes.
-All the marks uses offset to help place the mark nicely. These might need to be adjusted if the dataset changes.
+Some of the marks uses offset to help place the mark nicely on the grid.
 
 ##### Path
 This mark is a helper mark used with the `path` signal.
@@ -152,12 +152,13 @@ The text mark is the event text that surpasses the yscale. Because of this, its 
 ```json
 "clip": { "path": "M0 -50 H 800 V 200 H0" }
 ```
-The SVG path will propably need to be changed if the dataset change. Here we can use the `path` mark and signal to help us determine where the line goes. 
-Be aware that the text mark uses four fields: one for the yscale, one for the xscale, one for the text itself and one for the tooltip text. These would need to be changed in case of a dataset change.
-The text also has a limit for how many letters to show. It it also possible to adjust the color, font, size and so on if needed.
+The SVG path will maybe need to be changed if the dataset changes. Here we can use the `path` mark and signal to help us determine where the line goes. 
+Be aware that the text mark uses four fields: one for the yscale, one for the xscale, one for the text itself and one for the tooltip text. These would need to be changed in case of a dataset change.  
+The text also has a limit for how many letters to show. It it also possible to adjust the color, font, size and so on if needed.  
+Be aware that the tooltip for this mark for the category "Rejse" does not extend the text like the tooltip does for other categories! It might likely be possible to correct in a test in the tooltip.
 
 ##### Symbol
-This mark makes a point on every entry in the dataset. It uses four fields: one for the yscale, one for the xscale, one for the fill color and one for the tooltip text.
+This mark makes a filled circle on every entry in the dataset. It uses four fields: one for the yscale, one for the xscale, one for the fill color and one for the tooltip text.
 ```json
 "clip": true,
 "zindex": 80
